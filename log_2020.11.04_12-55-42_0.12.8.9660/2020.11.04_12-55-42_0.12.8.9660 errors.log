@@ -1,0 +1,52 @@
+2020-11-04 22:19:54.799 +09:00|0.12.8.9660|Error|player|5e58bb7e7babc63f811bf0f6:0206_1 - inventory desync server:235052490, client:-688073373| 
+2020-11-04 22:28:20.618 +09:00|0.12.8.9660|Error|Default|there is a problem to add the loot item: lootItem.ItemId:5fa2ab6437bea85c0b773e6a4 lootItem.Item.Id:5fa2ab6437bea85c0b773e6a4 netId:177932592 owner: lootItem:item_morphine_loot(Clone) (EFT.Interactive.ObservedLootItem) | item quest_reagent (id: 5fa2ab6437bea85c0b773e6a4)| 
+2020-11-04 22:28:20.618 +09:00|0.12.8.9660|Error|Default|registered: exists.ItemId:5fa2ab6437bea85c0b773e6a4 exists.Item.Id5fa2ab6437bea85c0b773e6a4 netId:177932592 owner: exists:item_morphine_loot(Clone) (EFT.Interactive.ObservedLootItem) | item quest_reagent (id: 5fa2ab6437bea85c0b773e6a4)| 
+2020-11-04 22:42:48.961 +09:00|0.12.8.9660|Error|Default|need captcha!!!| 
+2020-11-04 22:56:43.585 +09:00|0.12.8.9660|Error|Default|Cannot put item reciever_ak_akademia_bastion (id: 5f9cedc92e388b44243bebf1)| 
+2020-11-04 22:56:44.099 +09:00|0.12.8.9660|Error|Default|Cannot put item reciever_ak_akademia_bastion (id: 5f9cedc92e388b44243bebf1)| 
+2020-11-05 01:12:39.178 +09:00|0.12.8.9660|Error|Default|there is a problem to add the loot item: lootItem.ItemId:5fa2d12aeb3a807574194c4214 lootItem.Item.Id:5fa2d12aeb3a807574194c4214 netId:593037876 owner: lootItem:item_barter_electr_controller(Clone) (EFT.Interactive.ObservedLootItem) | item item_barter_electr_controller (id: 5fa2d12aeb3a807574194c4214)| 
+2020-11-05 01:12:39.178 +09:00|0.12.8.9660|Error|Default|registered: exists.ItemId:5fa2d12aeb3a807574194c4214 exists.Item.Id5fa2d12aeb3a807574194c4214 netId:593037876 owner: exists:item_barter_electr_controller(Clone) (EFT.Interactive.ObservedLootItem) | item item_barter_electr_controller (id: 5fa2d12aeb3a807574194c4214)| 
+2020-11-05 01:12:39.178 +09:00|0.12.8.9660|Error|Default|there is a problem to add the loot item: lootItem.ItemId:5fa2d12aeb3a807574194c4314 lootItem.Item.Id:5fa2d12aeb3a807574194c4314 netId:1896999791 owner: lootItem:item_barter_electr_gyroscope(Clone) (EFT.Interactive.ObservedLootItem) | item item_barter_electr_gyroscope (id: 5fa2d12aeb3a807574194c4314)| 
+2020-11-05 01:12:39.178 +09:00|0.12.8.9660|Error|Default|registered: exists.ItemId:5fa2d12aeb3a807574194c4314 exists.Item.Id5fa2d12aeb3a807574194c4314 netId:1896999791 owner: exists:item_barter_electr_gyroscope(Clone) (EFT.Interactive.ObservedLootItem) | item item_barter_electr_gyroscope (id: 5fa2d12aeb3a807574194c4314)| 
+2020-11-05 01:12:39.199 +09:00|0.12.8.9660|Error|Default|there is a problem to add the loot item: lootItem.ItemId:5fa2d12aeb3a807574194c4414 lootItem.Item.Id:5fa2d12aeb3a807574194c4414 netId:1231593238 owner: lootItem:item_quest_envelope(Clone) (EFT.Interactive.ObservedLootItem) | item quest_hunt_message (id: 5fa2d12aeb3a807574194c4414)| 
+2020-11-05 01:12:39.199 +09:00|0.12.8.9660|Error|Default|registered: exists.ItemId:5fa2d12aeb3a807574194c4414 exists.Item.Id5fa2d12aeb3a807574194c4414 netId:1231593238 owner: exists:item_quest_envelope(Clone) (EFT.Interactive.ObservedLootItem) | item quest_hunt_message (id: 5fa2d12aeb3a807574194c4414)| 
+2020-11-05 01:12:39.210 +09:00|0.12.8.9660|Error|Default|there is a problem to add the loot item: lootItem.ItemId:5fa2d12aeb3a807574194c4514 lootItem.Item.Id:5fa2d12aeb3a807574194c4514 netId:-1759412143 owner: lootItem:item_quest_container_case_0052(Clone) (EFT.Interactive.ObservedLootItem) | item case_0052 (id: 5fa2d12aeb3a807574194c4514)| 
+2020-11-05 01:12:39.210 +09:00|0.12.8.9660|Error|Default|registered: exists.ItemId:5fa2d12aeb3a807574194c4514 exists.Item.Id5fa2d12aeb3a807574194c4514 netId:-1759412143 owner: exists:item_quest_container_case_0052(Clone) (EFT.Interactive.ObservedLootItem) | item case_0052 (id: 5fa2d12aeb3a807574194c4514)| 
+2020-11-05 01:20:32.762 +09:00|0.12.8.9660|Error|Default|This MeshCollider (GameObject: 'mag_vpo215_molot_vpo_215_366tkm_4_LOD1' Mesh: 'archive:/CAB-cebc68ab552b0a4fdf661142e93ff8f5/CAB-cebc68ab552b0a4fdf661142e93ff8f5') requires the mesh to be marked as readable in order to be usable with the given transform.
+| 
+2020-11-05 01:20:32.762 +09:00|0.12.8.9660|Error|Default|This MeshCollider (GameObject: 'mag_vpo215_molot_vpo_215_366tkm_4_LOD1' Mesh: 'archive:/CAB-cebc68ab552b0a4fdf661142e93ff8f5/CAB-cebc68ab552b0a4fdf661142e93ff8f5') requires the mesh to be marked as readable in order to be usable with the given transform.
+| 
+2020-11-05 01:20:32.762 +09:00|0.12.8.9660|Error|Default|This MeshCollider (GameObject: 'mag_vpo215_molot_vpo_215_366tkm_4_LOD1' Mesh: 'archive:/CAB-cebc68ab552b0a4fdf661142e93ff8f5/CAB-cebc68ab552b0a4fdf661142e93ff8f5') requires the mesh to be marked as readable in order to be usable with the given transform.
+| 
+2020-11-05 01:31:59.586 +09:00|0.12.8.9660|Error|Default|| 
+EXCEPTION: System.Exception: assets/content/items/ammo/patrons/patron_762x54r_7n37.bundle is not loaded. You should load it first.
+  at .GetAsset[T] ( easyAssets, System.String key, System.String assetName) [0x00071] in <03cad54571784aaf931f70a88c92752c>:0 
+  at .InstantiateAsset[T] ( easyAssets, EFT.ResourceKey key, UnityEngine.Transform parent) [0x00000] in <03cad54571784aaf931f70a88c92752c>:0 
+  at . ( easyAssets, EFT.ResourceKey resourceKey,  resourceType) [0x00000] in <03cad54571784aaf931f70a88c92752c>:0 
+  at . ( easyAssets,  itemTemplates, EFT.ResourceKey resourceKey) [0x0000d] in <03cad54571784aaf931f70a88c92752c>:0 
+  at +.PopOrCreate (EFT.ResourceKey resourceKey, System.Boolean canInitializeAssetPool) [0x000ef] in <03cad54571784aaf931f70a88c92752c>:0 
+  at . (EFT.ResourceKey resourceKey, +PoolsCategory poolCategory) [0x0000c] in <03cad54571784aaf931f70a88c92752c>:0 
+  at +.MoveNext () [0x0007a] in <03cad54571784aaf931f70a88c92752c>:0 
+2020-11-05 01:31:59.586 +09:00|0.12.8.9660|Error|Default|Exception: assets/content/items/ammo/patrons/patron_762x54r_7n37.bundle is not loaded. You should load it first.
+.GetAsset[T] ( easyAssets, System.String key, System.String assetName) (at <03cad54571784aaf931f70a88c92752c>:0)
+.InstantiateAsset[T] ( easyAssets, EFT.ResourceKey key, UnityEngine.Transform parent) (at <03cad54571784aaf931f70a88c92752c>:0)
+. ( easyAssets, EFT.ResourceKey resourceKey,  resourceType) (at <03cad54571784aaf931f70a88c92752c>:0)
+. ( easyAssets,  itemTemplates, EFT.ResourceKey resourceKey) (at <03cad54571784aaf931f70a88c92752c>:0)
++.PopOrCreate (EFT.ResourceKey resourceKey, System.Boolean canInitializeAssetPool) (at <03cad54571784aaf931f70a88c92752c>:0)
+. (EFT.ResourceKey resourceKey, +PoolsCategory poolCategory) (at <03cad54571784aaf931f70a88c92752c>:0)
++.MoveNext () (at <03cad54571784aaf931f70a88c92752c>:0)
+Rethrow as AggregateException: One or more errors occurred.
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+:UnityEngine.ILogHandler.LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+:(Task)
+:ResultWithHandleExceptions(Task`1)
+:CreateItem(Item, Player, Boolean)
+:CreateItem(Item, Boolean)
+MagVisualController:InitMagazine()
+:MoveNext()
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+Diz.Jobs.JobScheduler:LateUpdate()
+| 
+2020-11-05 01:40:43.136 +09:00|0.12.8.9660|Error|hands-states|5f881add2be4b304a45934ad: Packets left 1| 
+2020-11-05 01:43:35.925 +09:00|0.12.8.9660|Error|Default|Cannot put item weapon_izhmash_mosin_infantry_762x54 (id: 5f9a6565126df1004364be11)| 

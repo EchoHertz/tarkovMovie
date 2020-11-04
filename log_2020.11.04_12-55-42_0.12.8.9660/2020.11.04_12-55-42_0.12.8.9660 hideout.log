@@ -1,0 +1,20 @@
+2020-11-05 00:06:51.311 +09:00|0.12.8.9660|Info|hideout|Button StartProduction pressed | scheme 5eda03eff6626f08ef0efecc | area 10 | Can start True| 
+2020-11-05 00:06:51.311 +09:00|0.12.8.9660|Info|hideout|Producer data | any items ready: False | any items producing now: False | If any is true, we have a problem| 
+2020-11-05 00:06:56.741 +09:00|0.12.8.9660|Info|hideout|Items for StartProduction chosen | scheme 5eda03eff6626f08ef0efecc| 
+2020-11-05 00:06:56.741 +09:00|0.12.8.9660|Info|hideout|Ready to send StartProduction | scheme 5eda03eff6626f08ef0efecc| 
+2020-11-05 00:06:57.160 +09:00|0.12.8.9660|Info|hideout|Got result for StartProduction | succeed True | scheme 5eda03eff6626f08ef0efecc| 
+2020-11-05 00:08:23.737 +09:00|0.12.8.9660|Info|hideout|Button StartProduction pressed | scheme 5ede1e0b7690fa313b632e88 | area 8 | Can start True| 
+2020-11-05 00:08:23.737 +09:00|0.12.8.9660|Info|hideout|Producer data | any items ready: False | any items producing now: False | If any is true, we have a problem| 
+2020-11-05 00:08:25.012 +09:00|0.12.8.9660|Info|hideout|Items for StartProduction chosen | scheme 5ede1e0b7690fa313b632e88| 
+2020-11-05 00:08:25.012 +09:00|0.12.8.9660|Info|hideout|Ready to send StartProduction | scheme 5ede1e0b7690fa313b632e88| 
+2020-11-05 00:08:25.381 +09:00|0.12.8.9660|Info|hideout|Got result for StartProduction | succeed True | scheme 5ede1e0b7690fa313b632e88| 
+2020-11-05 00:09:34.752 +09:00|0.12.8.9660|Info|hideout|Button StartProduction pressed | scheme 5e1330dca0f0f8773c069c99 | area 2 | Can start True| 
+2020-11-05 00:09:34.752 +09:00|0.12.8.9660|Info|hideout|Producer data | any items ready: False | any items producing now: False | If any is true, we have a problem| 
+2020-11-05 00:09:37.452 +09:00|0.12.8.9660|Info|hideout|Items for StartProduction chosen | scheme 5e1330dca0f0f8773c069c99| 
+2020-11-05 00:09:37.452 +09:00|0.12.8.9660|Info|hideout|Ready to send StartProduction | scheme 5e1330dca0f0f8773c069c99| 
+2020-11-05 00:09:37.844 +09:00|0.12.8.9660|Info|hideout|Got result for StartProduction | succeed True | scheme 5e1330dca0f0f8773c069c99| 
+2020-11-05 00:11:49.995 +09:00|0.12.8.9660|Info|hideout|Button StartProduction pressed | scheme 5e1330dca0f0f8773c069c99 | area 2 | Can start True| 
+2020-11-05 00:11:49.995 +09:00|0.12.8.9660|Info|hideout|Producer data | any items ready: False | any items producing now: False | If any is true, we have a problem| 
+2020-11-05 00:11:50.852 +09:00|0.12.8.9660|Info|hideout|Items for StartProduction chosen | scheme 5e1330dca0f0f8773c069c99| 
+2020-11-05 00:11:50.852 +09:00|0.12.8.9660|Info|hideout|Ready to send StartProduction | scheme 5e1330dca0f0f8773c069c99| 
+2020-11-05 00:11:51.260 +09:00|0.12.8.9660|Info|hideout|Got result for StartProduction | succeed True | scheme 5e1330dca0f0f8773c069c99| 

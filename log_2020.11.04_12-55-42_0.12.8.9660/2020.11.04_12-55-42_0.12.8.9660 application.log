@@ -1,0 +1,340 @@
+2020-11-04 21:55:42.458 +09:00|0.12.8.9660|Info|application|scheduler FrameTicks:160000 targetFrameRate:60| 
+2020-11-04 21:55:42.487 +09:00|0.12.8.9660|Info|application|Application awaken, updateQueue:'Update'| 
+2020-11-04 21:55:42.487 +09:00|0.12.8.9660|Info|application|Assert.raiseExceptions:'True'| 
+2020-11-04 21:55:42.489 +09:00|0.12.8.9660|Info|application|Application obfuscation succeed.| 
+2020-11-04 21:56:35.348 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140708282105856'| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140708282105856'| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140708282105856'| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140708282105856'| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-04 21:56:35.944 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-04 21:56:36.460 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-04 21:56:36.460 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-04 21:56:36.561 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-04 21:56:36.561 +09:00|0.12.8.9660|Debug|application|Releasing dll '140708282105856'| 
+2020-11-04 21:56:36.623 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-04 22:08:39.091 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-04 22:11:39.842 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-04 22:11:39.842 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():919.5667| 
+2020-11-04 22:11:41.047 +09:00|0.12.8.9660|Info|application|scene preset path:maps/rezerv_base_preset.bundle rcid:Rezerv_Base.scenespreset.asset| 
+2020-11-04 22:11:41.047 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-04 22:11:52.287 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-04 22:11:52.287 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-04 22:13:09.151 +09:00|0.12.8.9660|Info|application|LocationLoaded:35.13 real:89.3 diff:54.17| 
+2020-11-04 22:13:09.151 +09:00|0.12.8.9660|Info|application|MatchingCompleted:35.13 real:89.3 diff:54.17| 
+2020-11-04 22:13:09.474 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-04 22:13:09.474 +09:00|0.12.8.9660|Info|application|GamePrepared:35.28 real:89.62 diff:54.34| 
+2020-11-04 22:13:09.474 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-04 22:13:09.474 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-04 22:13:10.849 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-04 22:13:11.198 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-04 22:13:11.198 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dbf, Status: Busy, Ip: 92.38.165.135, Port: 17010, Location: RezervBase, Sid: 92.38.165.135-17010_PID_04.11.20_12.46.38, GameMode: deathmatch, shortId: WP9W'| 
+2020-11-04 22:13:11.198 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-04 22:13:11.208 +09:00|0.12.8.9660|Info|application|GameCreated:37.01(1.72) real:91.36(1.73) diff:54.35| 
+2020-11-04 22:13:11.208 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-04 22:13:45.651 +09:00|0.12.8.9660|Info|application|GamePooled:68.36(31.35) real:125.8(34.44) diff:57.44| 
+2020-11-04 22:13:45.690 +09:00|0.12.8.9660|Info|application|GameRunned:68.36(0) real:125.84(0.03) diff:57.47| 
+2020-11-04 22:13:45.853 +09:00|0.12.8.9660|Info|application|GameSpawn:68.46(0.09) real:126(0.16) diff:57.54| 
+2020-11-04 22:13:46.336 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:68.7(0.23) real:126.48(0.48) diff:57.78| 
+2020-11-04 22:13:48.797 +09:00|0.12.8.9660|Info|application|GameSpawned:70.72(2.02) real:128.94(2.45) diff:58.22| 
+2020-11-04 22:13:49.747 +09:00|0.12.8.9660|Info|application|GameStarted:70.82(70.81) real:129.89(129.88) diff:59.06| 
+2020-11-04 22:13:49.786 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-04 22:23:14.490 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140708282105856'| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140708282105856'| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140708282105856'| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140708282105856'| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-04 22:23:14.911 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-04 22:23:15.073 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-04 22:23:15.073 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-04 22:23:15.174 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-04 22:23:15.174 +09:00|0.12.8.9660|Debug|application|Releasing dll '140708282105856'| 
+2020-11-04 22:23:15.229 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-04 22:23:47.350 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-04 22:23:47.350 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():1556.07| 
+2020-11-04 22:23:47.667 +09:00|0.12.8.9660|Info|application|scene preset path:maps/factory_day_preset.bundle rcid:factory_day.scenespreset.asset| 
+2020-11-04 22:23:47.667 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-04 22:23:57.109 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-04 22:23:57.109 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-04 22:24:04.646 +09:00|0.12.8.9660|Info|application|LocationLoaded:6.27 real:17.29 diff:11.02| 
+2020-11-04 22:26:34.313 +09:00|0.12.8.9660|Info|application|MatchingCompleted:156.02 real:166.96 diff:10.94| 
+2020-11-04 22:26:34.413 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-04 22:26:34.413 +09:00|0.12.8.9660|Info|application|GamePrepared:156.09 real:167.06 diff:10.97| 
+2020-11-04 22:26:34.413 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-04 22:26:34.413 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-04 22:26:35.704 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-04 22:26:36.036 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-04 22:26:36.036 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dc0, Status: Busy, Ip: 92.223.73.26, Port: 17011, Location: factory4_day, Sid: 92.223.73.26-17011_PID_04.11.20_13.23.01, GameMode: deathmatch, shortId: WFX3'| 
+2020-11-04 22:26:36.036 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-04 22:26:36.036 +09:00|0.12.8.9660|Info|application|GameCreated:157.73(1.63) real:168.69(1.63) diff:10.96| 
+2020-11-04 22:26:36.036 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-04 22:26:48.073 +09:00|0.12.8.9660|Info|application|GamePooled:169.09(11.36) real:180.72(12.02) diff:11.63| 
+2020-11-04 22:26:48.073 +09:00|0.12.8.9660|Info|application|GameRunned:169.09(0) real:180.72(0) diff:11.63| 
+2020-11-04 22:26:49.138 +09:00|0.12.8.9660|Info|application|GameSpawn:170.11(1.02) real:181.78(1.05) diff:11.66| 
+2020-11-04 22:26:50.501 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:171.52(1.41) real:183.15(1.36) diff:11.62| 
+2020-11-04 22:26:50.920 +09:00|0.12.8.9660|Info|application|GameSpawned:171.93(0.4) real:183.56(0.41) diff:11.63| 
+2020-11-04 22:27:53.947 +09:00|0.12.8.9660|Info|application|GameStarting:234.09(62.16) real:246.59(63.02) diff:12.5| 
+2020-11-04 22:28:20.524 +09:00|0.12.8.9660|Info|application|GameStarted:260.61(26.51) real:273.17(26.58) diff:12.56| 
+2020-11-04 22:28:20.524 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-04 22:36:28.819 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 22:36:29.251 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 22:36:29.251 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140708282105856'| 
+2020-11-04 22:36:29.251 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140708282105856'| 
+2020-11-04 22:36:29.251 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140708282105856'| 
+2020-11-04 22:36:29.251 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140708282105856'| 
+2020-11-04 22:36:29.251 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-04 22:36:29.257 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-04 22:36:29.257 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-04 22:36:29.412 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-04 22:36:29.412 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-04 22:36:29.513 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-04 22:36:29.513 +09:00|0.12.8.9660|Debug|application|Releasing dll '140708282105856'| 
+2020-11-04 22:36:29.568 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-04 22:49:38.205 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-04 22:49:38.205 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():3068.29| 
+2020-11-04 22:49:38.532 +09:00|0.12.8.9660|Info|application|scene preset path:maps/factory_day_preset.bundle rcid:factory_day.scenespreset.asset| 
+2020-11-04 22:49:38.532 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-04 22:49:47.959 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-04 22:49:47.959 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-04 22:49:55.932 +09:00|0.12.8.9660|Info|application|LocationLoaded:5.78 real:17.72 diff:11.93| 
+2020-11-04 22:51:35.337 +09:00|0.12.8.9660|Info|application|MatchingCompleted:105.26 real:117.13 diff:11.86| 
+2020-11-04 22:51:35.433 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-04 22:51:35.433 +09:00|0.12.8.9660|Info|application|GamePrepared:105.33 real:117.22 diff:11.88| 
+2020-11-04 22:51:35.433 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-04 22:51:35.433 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-04 22:51:36.797 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-04 22:51:37.128 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-04 22:51:37.128 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dc0, Status: Busy, Ip: 92.38.165.139, Port: 17003, Location: factory4_day, Sid: 92.38.165.139-17003_PID_04.11.20_13.49.03, GameMode: deathmatch, shortId: W29A'| 
+2020-11-04 22:51:37.129 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-04 22:51:37.129 +09:00|0.12.8.9660|Info|application|GameCreated:107.04(1.7) real:118.92(1.69) diff:11.87| 
+2020-11-04 22:51:37.129 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-04 22:51:46.946 +09:00|0.12.8.9660|Info|application|GamePooled:116.26(9.22) real:128.73(9.8) diff:12.46| 
+2020-11-04 22:51:46.946 +09:00|0.12.8.9660|Info|application|GameRunned:116.26(0) real:128.74(0.01) diff:12.48| 
+2020-11-04 22:51:47.104 +09:00|0.12.8.9660|Info|application|GameSpawn:116.37(0.11) real:128.89(0.14) diff:12.51| 
+2020-11-04 22:51:48.070 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:117.37(1) real:129.86(0.97) diff:12.48| 
+2020-11-04 22:51:48.315 +09:00|0.12.8.9660|Info|application|GameSpawned:117.63(0.25) real:130.1(0.24) diff:12.47| 
+2020-11-04 22:52:00.363 +09:00|0.12.8.9660|Info|application|GameStarting:128.61(10.98) real:142.15(12.04) diff:13.53| 
+2020-11-04 22:52:24.632 +09:00|0.12.8.9660|Info|application|GameStarted:152.82(24.21) real:166.42(24.27) diff:13.59| 
+2020-11-04 22:52:24.632 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-04 22:55:16.616 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140709025218560'| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140709025218560'| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140709025218560'| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140709025218560'| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-04 22:55:17.116 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-04 22:55:17.288 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-04 22:55:17.288 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-04 22:55:17.389 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-04 22:55:17.389 +09:00|0.12.8.9660|Debug|application|Releasing dll '140709025218560'| 
+2020-11-04 22:55:17.459 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-04 23:03:34.542 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-04 23:03:34.542 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():3868.69| 
+2020-11-04 23:03:34.861 +09:00|0.12.8.9660|Info|application|scene preset path:maps/rezerv_base_preset.bundle rcid:Rezerv_Base.scenespreset.asset| 
+2020-11-04 23:03:34.861 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-04 23:03:44.389 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-04 23:03:44.389 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-04 23:04:40.445 +09:00|0.12.8.9660|Info|application|MatchingCompleted:29.12 real:65.9 diff:36.78| 
+2020-11-04 23:05:03.326 +09:00|0.12.8.9660|Info|application|LocationLoaded:32.08 real:88.78 diff:56.69| 
+2020-11-04 23:05:03.837 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-04 23:05:03.837 +09:00|0.12.8.9660|Info|application|GamePrepared:32.28 real:89.29 diff:57.01| 
+2020-11-04 23:05:03.837 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-04 23:05:03.837 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-04 23:05:05.245 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-04 23:05:05.593 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-04 23:05:05.593 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dbf, Status: Busy, Ip: 92.38.165.134, Port: 17002, Location: RezervBase, Sid: 92.38.165.134-17002_PID_04.11.20_13.40.32, GameMode: deathmatch, shortId: WLKE'| 
+2020-11-04 23:05:05.593 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-04 23:05:05.593 +09:00|0.12.8.9660|Info|application|GameCreated:34.08(1.8) real:91.05(1.76) diff:56.97| 
+2020-11-04 23:05:05.593 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-04 23:05:41.120 +09:00|0.12.8.9660|Info|application|GamePooled:66.91(32.83) real:126.57(35.51) diff:59.65| 
+2020-11-04 23:05:41.134 +09:00|0.12.8.9660|Info|application|GameRunned:66.91(0) real:126.59(0.01) diff:59.67| 
+2020-11-04 23:05:41.303 +09:00|0.12.8.9660|Info|application|GameSpawn:67.02(0.1) real:126.75(0.16) diff:59.73| 
+2020-11-04 23:05:41.584 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:67.34(0.31) real:127.04(0.29) diff:59.7| 
+2020-11-04 23:05:43.540 +09:00|0.12.8.9660|Info|application|GameSpawned:69.32(1.98) real:128.99(1.95) diff:59.67| 
+2020-11-04 23:05:45.823 +09:00|0.12.8.9660|Info|application|GameStarted:69.4(69.4) real:131.27(131.27) diff:61.87| 
+2020-11-04 23:05:45.853 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-04 23:10:45.581 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140709025218560'| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140709025218560'| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140709025218560'| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140709025218560'| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-04 23:10:45.994 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-04 23:10:46.156 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-04 23:10:46.156 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-04 23:10:46.258 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-04 23:10:46.258 +09:00|0.12.8.9660|Debug|application|Releasing dll '140709025218560'| 
+2020-11-04 23:10:46.314 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-04 23:12:12.121 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-04 23:12:12.121 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():4289.27| 
+2020-11-04 23:12:12.478 +09:00|0.12.8.9660|Info|application|scene preset path:maps/shoreline_preset.bundle rcid:shoreline.scenespreset.asset| 
+2020-11-04 23:12:12.478 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-04 23:12:21.810 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-04 23:12:21.810 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-04 23:13:14.565 +09:00|0.12.8.9660|Info|application|LocationLoaded:17.83 real:62.44 diff:44.6| 
+2020-11-04 23:13:15.335 +09:00|0.12.8.9660|Info|application|MatchingCompleted:18.54 real:63.21 diff:44.66| 
+2020-11-04 23:13:15.477 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-04 23:13:15.477 +09:00|0.12.8.9660|Info|application|GamePrepared:18.64 real:63.35 diff:44.7| 
+2020-11-04 23:13:15.477 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-04 23:13:15.477 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-04 23:13:16.812 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-04 23:13:17.144 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-04 23:13:17.144 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dc0, Status: Busy, Ip: 92.38.165.137, Port: 17024, Location: Shoreline, Sid: 92.38.165.137-17024_PID_04.11.20_14.07.39, GameMode: deathmatch, shortId: WBEV'| 
+2020-11-04 23:13:17.145 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-04 23:13:17.145 +09:00|0.12.8.9660|Info|application|GameCreated:20.35(1.71) real:65.02(1.66) diff:44.66| 
+2020-11-04 23:13:17.145 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-04 23:13:41.677 +09:00|0.12.8.9660|Info|application|GamePooled:42.95(22.6) real:89.55(24.53) diff:46.6| 
+2020-11-04 23:13:41.677 +09:00|0.12.8.9660|Info|application|GameRunned:42.95(0) real:89.56(0) diff:46.6| 
+2020-11-04 23:13:41.849 +09:00|0.12.8.9660|Info|application|GameSpawn:43.04(0.09) real:89.72(0.16) diff:46.68| 
+2020-11-04 23:13:42.438 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:43.7(0.65) real:90.31(0.58) diff:46.6| 
+2020-11-04 23:13:43.725 +09:00|0.12.8.9660|Info|application|GameSpawned:45(1.29) real:91.6(1.29) diff:46.59| 
+2020-11-04 23:13:45.818 +09:00|0.12.8.9660|Info|application|GameStarted:45.39(45.38) real:93.69(93.69) diff:48.3| 
+2020-11-04 23:13:45.818 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-04 23:57:05.349 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140709025218560'| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140709025218560'| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140709025218560'| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140709025218560'| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-04 23:57:05.809 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-04 23:57:06.043 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-04 23:57:06.043 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-04 23:57:06.145 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-04 23:57:06.145 +09:00|0.12.8.9660|Debug|application|Releasing dll '140709025218560'| 
+2020-11-04 23:57:06.207 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-05 00:01:51.816 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-05 00:21:00.981 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-05 00:21:00.981 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():8303.267| 
+2020-11-05 00:21:01.327 +09:00|0.12.8.9660|Info|application|scene preset path:maps/shoreline_preset.bundle rcid:shoreline.scenespreset.asset| 
+2020-11-05 00:21:01.327 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-05 00:21:11.776 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-05 00:21:11.776 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-05 00:22:06.081 +09:00|0.12.8.9660|Info|application|LocationLoaded:17.86 real:65.09 diff:47.22| 
+2020-11-05 00:22:27.343 +09:00|0.12.8.9660|Info|application|MatchingCompleted:39.08 real:86.36 diff:47.27| 
+2020-11-05 00:22:27.502 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-05 00:22:27.502 +09:00|0.12.8.9660|Info|application|GamePrepared:39.2 real:86.52 diff:47.31| 
+2020-11-05 00:22:27.502 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-05 00:22:27.502 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-05 00:22:28.919 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-05 00:22:29.252 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-05 00:22:29.252 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dc0, Status: Busy, Ip: 92.223.73.159, Port: 17020, Location: Shoreline, Sid: 92.223.73.159-17020_PID_04.11.20_15.17.32, GameMode: deathmatch, shortId: 7GRP'| 
+2020-11-05 00:22:29.252 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-05 00:22:29.252 +09:00|0.12.8.9660|Info|application|GameCreated:41(1.79) real:88.27(1.75) diff:47.26| 
+2020-11-05 00:22:29.252 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-05 00:23:08.179 +09:00|0.12.8.9660|Info|application|GamePooled:78.08(37.08) real:127.19(38.92) diff:49.11| 
+2020-11-05 00:23:08.198 +09:00|0.12.8.9660|Info|application|GameRunned:78.08(0) real:127.21(0.01) diff:49.12| 
+2020-11-05 00:23:08.348 +09:00|0.12.8.9660|Info|application|GameSpawn:78.17(0.08) real:127.36(0.15) diff:49.19| 
+2020-11-05 00:23:10.635 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:80.52(2.34) real:129.65(2.28) diff:49.12| 
+2020-11-05 00:23:12.669 +09:00|0.12.8.9660|Info|application|GameSpawned:82.55(2.03) real:131.68(2.02) diff:49.12| 
+2020-11-05 00:23:30.267 +09:00|0.12.8.9660|Info|application|GameStarting:98(15.44) real:149.28(17.6) diff:51.27| 
+2020-11-05 00:24:04.683 +09:00|0.12.8.9660|Info|application|GameStarted:131.9(33.89) real:183.7(34.41) diff:51.8| 
+2020-11-05 00:24:04.683 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-05 00:54:49.665 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140709296603136'| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140709296603136'| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140709296603136'| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140709296603136'| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-05 00:54:50.118 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-05 00:54:50.280 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-05 00:54:50.280 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-05 00:54:50.381 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-05 00:54:50.381 +09:00|0.12.8.9660|Debug|application|Releasing dll '140709296603136'| 
+2020-11-05 00:54:50.437 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-05 00:59:09.302 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-05 01:10:09.265 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-05 01:10:09.265 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():11133.13| 
+2020-11-05 01:10:09.599 +09:00|0.12.8.9660|Info|application|scene preset path:maps/woods_preset.bundle rcid:woods.scenespreset.asset| 
+2020-11-05 01:10:09.599 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-05 01:10:20.451 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-05 01:10:20.451 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-05 01:10:37.367 +09:00|0.12.8.9660|Info|application|LocationLoaded:9.93 real:28.1 diff:18.17| 
+2020-11-05 01:11:24.702 +09:00|0.12.8.9660|Info|application|MatchingCompleted:57.34 real:75.43 diff:18.09| 
+2020-11-05 01:11:24.802 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-05 01:11:24.802 +09:00|0.12.8.9660|Info|application|GamePrepared:57.43 real:75.53 diff:18.09| 
+2020-11-05 01:11:24.802 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-05 01:11:24.802 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-05 01:11:26.142 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-05 01:11:26.490 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-05 01:11:26.490 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dc0, Status: Busy, Ip: 92.223.73.29, Port: 17012, Location: Woods, Sid: 92.223.73.29-17012_PID_04.11.20_16.04.07, GameMode: deathmatch, shortId: 77MF'| 
+2020-11-05 01:11:26.490 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-05 01:11:26.490 +09:00|0.12.8.9660|Info|application|GameCreated:59.13(1.7) real:77.22(1.69) diff:18.09| 
+2020-11-05 01:11:26.490 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-05 01:11:47.365 +09:00|0.12.8.9660|Info|application|GamePooled:78.15(19.02) real:98.09(20.86) diff:19.93| 
+2020-11-05 01:11:47.388 +09:00|0.12.8.9660|Info|application|GameRunned:78.15(0) real:98.12(0.03) diff:19.97| 
+2020-11-05 01:11:48.231 +09:00|0.12.8.9660|Info|application|GameSpawn:78.97(0.81) real:98.96(0.83) diff:19.98| 
+2020-11-05 01:11:51.416 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:82.19(3.22) real:102.15(3.19) diff:19.95| 
+2020-11-05 01:12:00.232 +09:00|0.12.8.9660|Info|application|GameSpawned:90.97(8.77) real:110.96(8.8) diff:19.98| 
+2020-11-05 01:12:02.902 +09:00|0.12.8.9660|Info|application|GameStarting:91.11(0.13) real:113.63(2.66) diff:22.51| 
+2020-11-05 01:12:39.007 +09:00|0.12.8.9660|Info|application|GameStarted:126.93(35.81) real:149.74(36.11) diff:22.81| 
+2020-11-05 01:12:39.007 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-05 01:21:41.562 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140709279039488'| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140709279039488'| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140709279039488'| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140709279039488'| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-05 01:21:41.992 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-05 01:21:42.153 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-05 01:21:42.153 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-05 01:21:42.255 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-05 01:21:42.255 +09:00|0.12.8.9660|Debug|application|Releasing dll '140709279039488'| 
+2020-11-05 01:21:42.312 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-05 01:23:46.787 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-05 01:32:36.060 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-05 01:32:36.060 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():12421.21| 
+2020-11-05 01:32:36.412 +09:00|0.12.8.9660|Info|application|scene preset path:maps/woods_preset.bundle rcid:woods.scenespreset.asset| 
+2020-11-05 01:32:36.412 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-05 01:32:47.010 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-05 01:32:47.010 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-05 01:33:03.988 +09:00|0.12.8.9660|Info|application|LocationLoaded:8.18 real:27.92 diff:19.73| 
+2020-11-05 01:33:31.694 +09:00|0.12.8.9660|Info|application|MatchingCompleted:35.96 real:55.63 diff:19.67| 
+2020-11-05 01:33:31.794 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-05 01:33:31.794 +09:00|0.12.8.9660|Info|application|GamePrepared:36.04 real:55.73 diff:19.68| 
+2020-11-05 01:33:31.794 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-05 01:33:31.794 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-05 01:33:33.158 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-05 01:33:33.489 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-05 01:33:33.489 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dc0, Status: Busy, Ip: 92.38.165.136, Port: 17005, Location: Woods, Sid: 92.38.165.136-17005_PID_04.11.20_16.26.19, GameMode: deathmatch, shortId: 7T86'| 
+2020-11-05 01:33:33.489 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-05 01:33:33.489 +09:00|0.12.8.9660|Info|application|GameCreated:37.76(1.71) real:57.42(1.68) diff:19.65| 
+2020-11-05 01:33:33.489 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-05 01:33:52.542 +09:00|0.12.8.9660|Info|application|GamePooled:55.25(17.49) real:76.47(19.05) diff:21.22| 
+2020-11-05 01:33:52.555 +09:00|0.12.8.9660|Info|application|GameRunned:55.25(0) real:76.49(0.01) diff:21.23| 
+2020-11-05 01:34:08.651 +09:00|0.12.8.9660|Info|application|GameSpawn:71.31(16.05) real:92.58(16.09) diff:21.27| 
+2020-11-05 01:34:09.817 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:72.54(1.23) real:93.75(1.16) diff:21.2| 
+2020-11-05 01:34:10.199 +09:00|0.12.8.9660|Info|application|GameSpawned:72.91(0.37) real:94.13(0.37) diff:21.21| 
+2020-11-05 01:35:42.711 +09:00|0.12.8.9660|Info|application|GameStarting:162.58(89.66) real:186.64(92.51) diff:24.05| 
+2020-11-05 01:36:07.783 +09:00|0.12.8.9660|Info|application|GameStarted:187.41(24.83) real:211.71(25.07) diff:24.3| 
+2020-11-05 01:36:07.790 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-05 01:46:26.609 +09:00|0.12.8.9660|Debug|application|Start loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-05 01:46:27.004 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'D:/Escape/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-05 01:46:27.004 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140709208784896'| 
+2020-11-05 01:46:27.004 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140709208784896'| 
+2020-11-05 01:46:27.004 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140709208784896'| 
+2020-11-05 01:46:27.004 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140709208784896'| 
+2020-11-05 01:46:27.004 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-05 01:46:27.010 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-05 01:46:27.010 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-05 01:46:27.165 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-05 01:46:27.165 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-05 01:46:27.267 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-05 01:46:27.267 +09:00|0.12.8.9660|Debug|application|Releasing dll '140709208784896'| 
+2020-11-05 01:46:27.336 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-05 01:49:23.761 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 

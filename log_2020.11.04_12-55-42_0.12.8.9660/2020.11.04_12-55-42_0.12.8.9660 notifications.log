@@ -1,0 +1,2169 @@
+2020-11-04 21:56:34.329 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-04 21:56:35.959 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f|
+2020-11-04 21:56:35.959 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 21:56:35.959 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=default_id|
+2020-11-04 21:56:35.959 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=default_id|
+2020-11-04 21:58:17.048 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2a5684c811a295c20e8d7","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2a5684c811a295c20e8d24","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604494696,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"StivBLADE","soldItem":"5a32a064c4a28200741e22de","itemCount":1},"items":{"stash":"5fa2a5684c811a295c20e8d3","data":[{"_id":"5fa2a5684c811a295c20e8d4","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":21000},"parentId":"5fa2a5684c811a295c20e8d3","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-04 21:58:17.064 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2a5684c811a295c20e8d24",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604494696,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "StivBLADE",
+      "soldItem": "5a32a064c4a28200741e22de",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2a5684c811a295c20e8d3",
+      "data": [
+        {
+          "_id": "5fa2a5684c811a295c20e8d4",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 21000
+          },
+          "parentId": "5fa2a5684c811a295c20e8d3",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 21:58:17.064 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 21:58:17.068 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 21:58:17.068 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5684c811a295c20e8d7|
+2020-11-04 21:58:17.068 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5684c811a295c20e8d7|
+2020-11-04 21:58:17.340 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2a5684c811a295c20e8d9","data":{"offerId":"5fa2a56493d323039e6f4f6b3","handbookId":"5a32a064c4a28200741e22de","count":1}}|
+2020-11-04 21:58:17.349 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2a56493d323039e6f4f6b3",
+  "handbookId": "5a32a064c4a28200741e22de",
+  "count": 1
+}|
+2020-11-04 21:58:17.349 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-04 21:58:17.349 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 21:58:17.349 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5684c811a295c20e8d9|
+2020-11-04 21:58:17.349 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5684c811a295c20e8d9|
+2020-11-04 21:59:46.884 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2a5c2a6935227270826bc","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2a5c2a6935227270826b74","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604494786,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"BZY117","soldItem":"59ecc3dd86f7746dc827481c","itemCount":1},"items":{"stash":"5fa2a5c2a6935227270826b8","data":[{"_id":"5fa2a5c2a6935227270826b9","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":27997},"parentId":"5fa2a5c2a6935227270826b8","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-04 21:59:46.884 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2a5c2a6935227270826b74",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604494786,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "BZY117",
+      "soldItem": "59ecc3dd86f7746dc827481c",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2a5c2a6935227270826b8",
+      "data": [
+        {
+          "_id": "5fa2a5c2a6935227270826b9",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 27997
+          },
+          "parentId": "5fa2a5c2a6935227270826b8",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 21:59:46.884 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 21:59:46.884 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 21:59:46.884 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5c2a6935227270826bc|
+2020-11-04 21:59:46.884 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5c2a6935227270826bc|
+2020-11-04 21:59:47.165 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2a5c2a6935227270826be","data":{"offerId":"5fa2a585dbd7097b412f2f5b3","handbookId":"59ecc3dd86f7746dc827481c","count":1}}|
+2020-11-04 21:59:47.165 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2a585dbd7097b412f2f5b3",
+  "handbookId": "59ecc3dd86f7746dc827481c",
+  "count": 1
+}|
+2020-11-04 21:59:47.165 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-04 21:59:47.165 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 21:59:47.165 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5c2a6935227270826be|
+2020-11-04 21:59:47.165 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a5c2a6935227270826be|
+2020-11-04 22:09:32.660 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2a80ca38c2023547daf9a","data":[]}|
+2020-11-04 22:09:32.660 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 22:09:32.661 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:09:32.661 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a80ca38c2023547daf9a|
+2020-11-04 22:09:32.661 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a80ca38c2023547daf9a|
+2020-11-04 22:13:08.393 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2a8e38d6d731dda1da367","data":{"profileid":"5f676bb99a6be16425687dbf","status":"Busy","ip":"92.38.165.135","port":17010,"sid":"92.38.165.135-17010_PID_04.11.20_12.46.38","version":"live","location":"RezervBase","mode":"deathmatch","shortId":"WP9W","additional_info":[]}}|
+2020-11-04 22:13:08.393 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dbf",
+  "status": "Busy",
+  "ip": "92.38.165.135",
+  "port": 17010,
+  "sid": "92.38.165.135-17010_PID_04.11.20_12.46.38",
+  "version": "live",
+  "location": "RezervBase",
+  "mode": "deathmatch",
+  "shortId": "WP9W",
+  "additional_info": []
+}|
+2020-11-04 22:13:08.393 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:13:08.393 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:13:08.393 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a8e38d6d731dda1da367|
+2020-11-04 22:13:08.393 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a8e38d6d731dda1da367|
+2020-11-04 22:22:23.393 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:22:23.393 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a8e38d6d731dda1da367|
+2020-11-04 22:22:23.393 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2a8e38d6d731dda1da367|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2a920c1cbbe75dc24f4ae","data":{"profileid":"5f676bb99a6be16425687dbf","status":"Busy","ip":"92.38.165.135","port":17010,"sid":"92.38.165.135-17010_PID_04.11.20_12.46.38","version":"live","location":"RezervBase","mode":"deathmatch","shortId":"WP9W","additional_info":[]}}
+{"type":"ping","eventId":"5fa2aa8deda2b2429b4f2ad3","data":[]}
+{"type":"userMatchOver","eventId":"5fa2ab0bf94b434033278d33","data":{"profileid":"5f676bb99a6be16425687dbf","status":"Free","ip":"92.38.165.135","port":17010,"sid":"92.38.165.135-17010_PID_04.11.20_12.46.38","version":"live","location":"RezervBase","mode":"deathmatch","shortId":"WP9W","additional_info":[]}}|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dbf",
+  "status": "Busy",
+  "ip": "92.38.165.135",
+  "port": 17010,
+  "sid": "92.38.165.135-17010_PID_04.11.20_12.46.38",
+  "version": "live",
+  "location": "RezervBase",
+  "mode": "deathmatch",
+  "shortId": "WP9W",
+  "additional_info": []
+}|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dbf",
+  "status": "Free",
+  "ip": "92.38.165.135",
+  "port": 17010,
+  "sid": "92.38.165.135-17010_PID_04.11.20_12.46.38",
+  "version": "live",
+  "location": "RezervBase",
+  "mode": "deathmatch",
+  "shortId": "WP9W",
+  "additional_info": []
+}|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2ab0bf94b434033278d33|
+2020-11-04 22:22:33.711 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7f286efc3553c46fc0cd4834c584cc6b8aa0a37a3c93139149ee01154f15d5f?last_id=5fa2ab0bf94b434033278d33|
+2020-11-04 22:23:13.696 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-04 22:23:14.911 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb|
+2020-11-04 22:23:14.911 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:23:14.911 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=default_id|
+2020-11-04 22:23:14.911 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=default_id|
+2020-11-04 22:26:34.313 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2ac0af408936bde21d548","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.223.73.26","port":17011,"sid":"92.223.73.26-17011_PID_04.11.20_13.23.01","version":"live","location":"factory4_day","mode":"deathmatch","shortId":"WFX3","additional_info":[]}}|
+2020-11-04 22:26:34.313 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.223.73.26",
+  "port": 17011,
+  "sid": "92.223.73.26-17011_PID_04.11.20_13.23.01",
+  "version": "live",
+  "location": "factory4_day",
+  "mode": "deathmatch",
+  "shortId": "WFX3",
+  "additional_info": []
+}|
+2020-11-04 22:26:34.313 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:26:34.313 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:26:34.313 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=5fa2ac0af408936bde21d548|
+2020-11-04 22:26:34.313 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=5fa2ac0af408936bde21d548|
+2020-11-04 22:35:50.474 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:35:50.474 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=5fa2ac0af408936bde21d548|
+2020-11-04 22:35:50.474 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=5fa2ac0af408936bde21d548|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2ac1eb8fc0b41007f5498","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.223.73.26","port":17011,"sid":"92.223.73.26-17011_PID_04.11.20_13.23.01","version":"live","location":"factory4_day","mode":"deathmatch","shortId":"WFX3","additional_info":[]}}
+{"type":"ping","eventId":"5fa2acfebdebde4d931b05b0","data":[]}
+{"type":"userMatchOver","eventId":"5fa2ae3521d96c7fa655e67b","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Free","ip":"92.223.73.26","port":17011,"sid":"92.223.73.26-17011_PID_04.11.20_13.23.01","version":"live","location":"factory4_day","mode":"deathmatch","shortId":"WFX3","additional_info":[]}}|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.223.73.26",
+  "port": 17011,
+  "sid": "92.223.73.26-17011_PID_04.11.20_13.23.01",
+  "version": "live",
+  "location": "factory4_day",
+  "mode": "deathmatch",
+  "shortId": "WFX3",
+  "additional_info": []
+}|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Free",
+  "ip": "92.223.73.26",
+  "port": 17011,
+  "sid": "92.223.73.26-17011_PID_04.11.20_13.23.01",
+  "version": "live",
+  "location": "factory4_day",
+  "mode": "deathmatch",
+  "shortId": "WFX3",
+  "additional_info": []
+}|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=5fa2ae3521d96c7fa655e67b|
+2020-11-04 22:35:53.385 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/656e3f6dd07185dc9bc6f8cdabd775f04e905708dada22a17f91d613b2e9a3bb?last_id=5fa2ae3521d96c7fa655e67b|
+2020-11-04 22:36:28.047 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-04 22:36:29.257 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef|
+2020-11-04 22:36:29.257 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:36:29.257 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=default_id|
+2020-11-04 22:36:29.257 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=default_id|
+2020-11-04 22:40:47.210 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2af5f04f73c7836322429","data":[]}|
+2020-11-04 22:40:47.210 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 22:40:47.210 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:40:47.210 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2af5f04f73c7836322429|
+2020-11-04 22:40:47.210 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2af5f04f73c7836322429|
+2020-11-04 22:43:06.881 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2afea4098656a0619d21a","data":{"dialogId":"5c0647fdd443bc2504c2d371","message":{"_id":"5fa2afea4098656a0619d218","uid":"5c0647fdd443bc2504c2d371","type":10,"dt":1604497386,"text":"quest started","templateId":"5bc477dc86f7744fd57fafeb","hasRewards":false,"maxStorageTime":604800},"profiles":null}}|
+2020-11-04 22:43:06.881 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5c0647fdd443bc2504c2d371",
+  "message": {
+    "_id": "5fa2afea4098656a0619d218",
+    "uid": "5c0647fdd443bc2504c2d371",
+    "type": 10,
+    "dt": 1604497386,
+    "text": "quest started",
+    "templateId": "5bc477dc86f7744fd57fafeb",
+    "hasRewards": false,
+    "maxStorageTime": 604800
+  },
+  "profiles": null
+}|
+2020-11-04 22:43:06.881 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:43:06.881 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:43:06.881 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2afea4098656a0619d21a|
+2020-11-04 22:43:06.881 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2afea4098656a0619d21a|
+2020-11-04 22:46:08.842 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2b0a061b40b6761695c3e","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2b0a061b40b6761695c2c4","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604497568,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Framzik","soldItem":"5bb20d9cd4351e00334c9d8a","itemCount":1},"items":{"stash":"5fa2b0a061b40b6761695c2d","data":[{"_id":"5fa2b0a061b40b6761695c2e","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":17000},"parentId":"5fa2b0a061b40b6761695c2d","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-04 22:46:08.842 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2b0a061b40b6761695c2c4",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604497568,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Framzik",
+      "soldItem": "5bb20d9cd4351e00334c9d8a",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2b0a061b40b6761695c2d",
+      "data": [
+        {
+          "_id": "5fa2b0a061b40b6761695c2e",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 17000
+          },
+          "parentId": "5fa2b0a061b40b6761695c2d",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 22:46:08.842 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:46:08.842 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:46:08.842 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b0a061b40b6761695c3e|
+2020-11-04 22:46:08.842 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b0a061b40b6761695c3e|
+2020-11-04 22:46:09.125 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2b0a061b40b6761695c45","data":{"offerId":"5fa2b061c853d823a14c4cf33","handbookId":"5bb20d9cd4351e00334c9d8a","count":1}}|
+2020-11-04 22:46:09.125 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2b061c853d823a14c4cf33",
+  "handbookId": "5bb20d9cd4351e00334c9d8a",
+  "count": 1
+}|
+2020-11-04 22:46:09.125 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-04 22:46:09.125 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:46:09.125 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b0a061b40b6761695c45|
+2020-11-04 22:46:09.125 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b0a061b40b6761695c45|
+2020-11-04 22:50:57.400 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2b1c1e5a9871bff6c543c","data":[]}|
+2020-11-04 22:50:57.400 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 22:50:57.400 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:50:57.400 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b1c1e5a9871bff6c543c|
+2020-11-04 22:50:57.400 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b1c1e5a9871bff6c543c|
+2020-11-04 22:51:35.337 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2b1e763c0b00f1b41702c","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.38.165.139","port":17003,"sid":"92.38.165.139-17003_PID_04.11.20_13.49.03","version":"live","location":"factory4_day","mode":"deathmatch","shortId":"W29A","additional_info":[]}}|
+2020-11-04 22:51:35.337 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.38.165.139",
+  "port": 17003,
+  "sid": "92.38.165.139-17003_PID_04.11.20_13.49.03",
+  "version": "live",
+  "location": "factory4_day",
+  "mode": "deathmatch",
+  "shortId": "W29A",
+  "additional_info": []
+}|
+2020-11-04 22:51:35.337 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:51:35.337 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:51:35.337 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b1e763c0b00f1b41702c|
+2020-11-04 22:51:35.337 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b1e763c0b00f1b41702c|
+2020-11-04 22:54:39.789 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:54:39.789 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b1e763c0b00f1b41702c|
+2020-11-04 22:54:39.789 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b1e763c0b00f1b41702c|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|notification manager received message: {"type":"userMatchOver","eventId":"5fa2b29eec3a1225fb428ade","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Free","ip":"92.38.165.139","port":17003,"sid":"92.38.165.139-17003_PID_04.11.20_13.49.03","version":"live","location":"factory4_day","mode":"deathmatch","shortId":"W29A","additional_info":[]}}
+{"type":"new_message","eventId":"5fa2b29eec3a1225fb428ae1","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa2b29eec3a1225fb428adf","uid":"54cb50c76803fa8b248b4571","type":2,"dt":1604498078,"text":"","templateId":"5a8fd75188a45036844e0afe","systemData":{"date":"04.11.2020","time":"16:54","location":"factory4_day"},"hasRewards":false,"maxStorageTime":604800},"profiles":null}}|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Free",
+  "ip": "92.38.165.139",
+  "port": 17003,
+  "sid": "92.38.165.139-17003_PID_04.11.20_13.49.03",
+  "version": "live",
+  "location": "factory4_day",
+  "mode": "deathmatch",
+  "shortId": "W29A",
+  "additional_info": []
+}|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa2b29eec3a1225fb428adf",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 2,
+    "dt": 1604498078,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0afe",
+    "systemData": {
+      "date": "04.11.2020",
+      "time": "16:54",
+      "location": "factory4_day"
+    },
+    "hasRewards": false,
+    "maxStorageTime": 604800
+  },
+  "profiles": null
+}|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b29eec3a1225fb428ae1|
+2020-11-04 22:54:42.765 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/9c368ba24fe279d5ffe26f01f9286930097b52095338f16d4a287681f9dc01ef?last_id=5fa2b29eec3a1225fb428ae1|
+2020-11-04 22:55:15.835 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-04 22:55:17.116 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3|
+2020-11-04 22:55:17.116 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:55:17.116 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=default_id|
+2020-11-04 22:55:17.116 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=default_id|
+2020-11-04 22:55:39.503 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2b2db10410b4f8a0b503f","data":{"dialogId":"58330581ace78e27b8b10cee","message":{"_id":"5fa2b2db10410b4f8a0b503d5","uid":"58330581ace78e27b8b10cee","type":12,"dt":1604498139,"text":"quest finished","templateId":"5ab0f32686f7745dd409f57a","items":{"stash":"5fa2b2db10410b4f8a0b503e","data":[{"_id":"5fa2b2db10410b4f8a0b503a","_tpl":"5449016a4bdc2d6f028b456f","upd":{"SpawnedInSession":true,"StackObjectsCount":68348},"parentId":"5fa2b2db10410b4f8a0b503e","slotId":"main"},{"_id":"5fa2b2db10410b4f8a0b503c","_tpl":"545cdae64bdc2d39198b4568","upd":{"SpawnedInSession":true,"StackObjectsCount":1},"parentId":"5fa2b2db10410b4f8a0b503e","slotId":"main"}]},"maxStorageTime":172800,"hasRewards":true},"profiles":null}}|
+2020-11-04 22:55:39.504 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "58330581ace78e27b8b10cee",
+  "message": {
+    "_id": "5fa2b2db10410b4f8a0b503d5",
+    "uid": "58330581ace78e27b8b10cee",
+    "type": 12,
+    "dt": 1604498139,
+    "text": "quest finished",
+    "templateId": "5ab0f32686f7745dd409f57a",
+    "items": {
+      "stash": "5fa2b2db10410b4f8a0b503e",
+      "data": [
+        {
+          "_id": "5fa2b2db10410b4f8a0b503a",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "SpawnedInSession": true,
+            "StackObjectsCount": 68348
+          },
+          "parentId": "5fa2b2db10410b4f8a0b503e",
+          "slotId": "main"
+        },
+        {
+          "_id": "5fa2b2db10410b4f8a0b503c",
+          "_tpl": "545cdae64bdc2d39198b4568",
+          "upd": {
+            "SpawnedInSession": true,
+            "StackObjectsCount": 1
+          },
+          "parentId": "5fa2b2db10410b4f8a0b503e",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 172800,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 22:55:39.504 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:55:39.504 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:55:39.504 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b2db10410b4f8a0b503f|
+2020-11-04 22:55:39.504 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b2db10410b4f8a0b503f|
+2020-11-04 22:56:25.538 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2b309eb88f07b9e6c6d05","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2b309eb88f07b9e6c6d03","uid":"5ac3b934156ae10c4430e83c","type":10,"dt":1604498185,"text":"quest started","templateId":"5ae454ed86f774626b445ec3","hasRewards":false,"maxStorageTime":604800},"profiles":null}}|
+2020-11-04 22:56:25.538 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2b309eb88f07b9e6c6d03",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 10,
+    "dt": 1604498185,
+    "text": "quest started",
+    "templateId": "5ae454ed86f774626b445ec3",
+    "hasRewards": false,
+    "maxStorageTime": 604800
+  },
+  "profiles": null
+}|
+2020-11-04 22:56:25.538 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 22:56:25.538 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 22:56:25.538 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b309eb88f07b9e6c6d05|
+2020-11-04 22:56:25.538 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b309eb88f07b9e6c6d05|
+2020-11-04 23:02:00.752 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2b45855452c0d156ad4a0","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2b45855452c0d156ad49b4","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604498520,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"GQG233","soldItem":"5bb2475ed4351e00853264e3","itemCount":1},"items":{"stash":"5fa2b45855452c0d156ad49c","data":[{"_id":"5fa2b45855452c0d156ad49d","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":60000},"parentId":"5fa2b45855452c0d156ad49c","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-04 23:02:00.752 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2b45855452c0d156ad49b4",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604498520,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "GQG233",
+      "soldItem": "5bb2475ed4351e00853264e3",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2b45855452c0d156ad49c",
+      "data": [
+        {
+          "_id": "5fa2b45855452c0d156ad49d",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 60000
+          },
+          "parentId": "5fa2b45855452c0d156ad49c",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 23:02:00.752 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:02:00.752 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:02:00.752 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b45855452c0d156ad4a0|
+2020-11-04 23:02:00.752 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b45855452c0d156ad4a0|
+2020-11-04 23:02:01.034 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2b45855452c0d156ad4a2","data":{"offerId":"5fa2b0ab3169ae4c1a18504e1","handbookId":"5bb2475ed4351e00853264e3","count":1}}|
+2020-11-04 23:02:01.034 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2b0ab3169ae4c1a18504e1",
+  "handbookId": "5bb2475ed4351e00853264e3",
+  "count": 1
+}|
+2020-11-04 23:02:01.034 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-04 23:02:01.034 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:02:01.034 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b45855452c0d156ad4a2|
+2020-11-04 23:02:01.034 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b45855452c0d156ad4a2|
+2020-11-04 23:04:40.440 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2b4f7ee0c3b0d451234e4","data":{"profileid":"5f676bb99a6be16425687dbf","status":"Busy","ip":"92.38.165.134","port":17002,"sid":"92.38.165.134-17002_PID_04.11.20_13.40.32","version":"live","location":"RezervBase","mode":"deathmatch","shortId":"WLKE","additional_info":[]}}|
+2020-11-04 23:04:40.440 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dbf",
+  "status": "Busy",
+  "ip": "92.38.165.134",
+  "port": 17002,
+  "sid": "92.38.165.134-17002_PID_04.11.20_13.40.32",
+  "version": "live",
+  "location": "RezervBase",
+  "mode": "deathmatch",
+  "shortId": "WLKE",
+  "additional_info": []
+}|
+2020-11-04 23:04:40.440 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:04:40.440 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:04:40.440 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b4f7ee0c3b0d451234e4|
+2020-11-04 23:04:40.440 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b4f7ee0c3b0d451234e4|
+2020-11-04 23:09:58.340 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:09:58.340 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b4f7ee0c3b0d451234e4|
+2020-11-04 23:09:58.340 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b4f7ee0c3b0d451234e4|
+2020-11-04 23:10:10.071 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2b54df0d20106b74d55c8","data":[]}
+{"type":"userMatchOver","eventId":"5fa2b632cf038d10bf362af3","data":{"profileid":"5f676bb99a6be16425687dbf","status":"Free","ip":"92.38.165.134","port":17002,"sid":"92.38.165.134-17002_PID_04.11.20_13.40.32","version":"live","location":"RezervBase","mode":"deathmatch","shortId":"WLKE","additional_info":[]}}|
+2020-11-04 23:10:10.071 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 23:10:10.071 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dbf",
+  "status": "Free",
+  "ip": "92.38.165.134",
+  "port": 17002,
+  "sid": "92.38.165.134-17002_PID_04.11.20_13.40.32",
+  "version": "live",
+  "location": "RezervBase",
+  "mode": "deathmatch",
+  "shortId": "WLKE",
+  "additional_info": []
+}|
+2020-11-04 23:10:10.071 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:10:10.071 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:10:10.071 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b632cf038d10bf362af3|
+2020-11-04 23:10:10.071 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/664cfc0fcb97361df58d93eccc91115bbae0a408ebc1161243fe342437a0e6a3?last_id=5fa2b632cf038d10bf362af3|
+2020-11-04 23:10:44.782 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-04 23:10:45.994 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa|
+2020-11-04 23:10:45.994 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:10:45.994 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=default_id|
+2020-11-04 23:10:45.994 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=default_id|
+2020-11-04 23:12:43.352 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2b6d9dad7a041be1b895c","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2b6d8dad7a041be1b89544","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604499160,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"PopugVolnistii","soldItem":"59984ab886f7743e98271174","itemCount":1},"items":{"stash":"5fa2b6d8dad7a041be1b8955","data":[{"_id":"5fa2b6d8dad7a041be1b8956","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":20000},"parentId":"5fa2b6d8dad7a041be1b8955","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-04 23:12:43.352 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2b6d8dad7a041be1b89544",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604499160,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "PopugVolnistii",
+      "soldItem": "59984ab886f7743e98271174",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2b6d8dad7a041be1b8955",
+      "data": [
+        {
+          "_id": "5fa2b6d8dad7a041be1b8956",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 20000
+          },
+          "parentId": "5fa2b6d8dad7a041be1b8955",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 23:12:43.352 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:12:43.352 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:12:43.352 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6d9dad7a041be1b895c|
+2020-11-04 23:12:43.352 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6d9dad7a041be1b895c|
+2020-11-04 23:12:43.635 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2b6d9dad7a041be1b8966","data":{"offerId":"5fa2a579a5636d4249356b531","handbookId":"59984ab886f7743e98271174","count":1}}|
+2020-11-04 23:12:43.635 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2a579a5636d4249356b531",
+  "handbookId": "59984ab886f7743e98271174",
+  "count": 1
+}|
+2020-11-04 23:12:43.635 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-04 23:12:43.635 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:12:43.635 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6d9dad7a041be1b8966|
+2020-11-04 23:12:43.635 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6d9dad7a041be1b8966|
+2020-11-04 23:13:14.720 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairNewRating","eventId":"5fa2b6fa78843922d100f406","data":{"rating":2.19,"isRatingGrowing":true}}|
+2020-11-04 23:13:14.727 +09:00|Info|push-notifications|Got notification | RagfairNewRating
+{
+  "rating": 2.19,
+  "isRatingGrowing": true
+}|
+2020-11-04 23:13:14.727 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:13:14.727 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:13:14.727 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6fa78843922d100f406|
+2020-11-04 23:13:14.727 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6fa78843922d100f406|
+2020-11-04 23:13:15.335 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2b6fb6d1482798a737111","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.38.165.137","port":17024,"sid":"92.38.165.137-17024_PID_04.11.20_14.07.39","version":"live","location":"Shoreline","mode":"deathmatch","shortId":"WBEV","additional_info":[]}}|
+2020-11-04 23:13:15.335 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.38.165.137",
+  "port": 17024,
+  "sid": "92.38.165.137-17024_PID_04.11.20_14.07.39",
+  "version": "live",
+  "location": "Shoreline",
+  "mode": "deathmatch",
+  "shortId": "WBEV",
+  "additional_info": []
+}|
+2020-11-04 23:13:15.335 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:13:15.335 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:13:15.335 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6fb6d1482798a737111|
+2020-11-04 23:13:15.335 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6fb6d1482798a737111|
+2020-11-04 23:40:56.608 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:40:56.608 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6fb6d1482798a737111|
+2020-11-04 23:40:56.608 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2b6fb6d1482798a737111|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2b710e030647c3d7865ec","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.38.165.137","port":17024,"sid":"92.38.165.137-17024_PID_04.11.20_14.07.39","version":"live","location":"Shoreline","mode":"deathmatch","shortId":"WBEV","additional_info":[]}}
+{"type":"ping","eventId":"5fa2b7b2562603278f7e2451","data":[]}
+{"type":"ping","eventId":"5fa2ba0d8684e00c66299877","data":[]}
+{"type":"ping","eventId":"5fa2bc685190916319193bc3","data":[]}
+{"type":"userMatchOver","eventId":"5fa2bd76ad71e85fb03914bd","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Free","ip":"92.38.165.137","port":17024,"sid":"92.38.165.137-17024_PID_04.11.20_14.07.39","version":"live","location":"Shoreline","mode":"deathmatch","shortId":"WBEV","additional_info":[]}}
+{"type":"new_message","eventId":"5fa2bd76ad71e85fb03914c0","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa2bd76ad71e85fb03914be","uid":"54cb50c76803fa8b248b4571","type":2,"dt":1604500854,"text":"","templateId":"5a8fd75188a45036844e0aff","systemData":{"date":"04.11.2020","time":"17:40","location":"Shoreline"},"hasRewards":false,"maxStorageTime":604800},"profiles":null}}|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.38.165.137",
+  "port": 17024,
+  "sid": "92.38.165.137-17024_PID_04.11.20_14.07.39",
+  "version": "live",
+  "location": "Shoreline",
+  "mode": "deathmatch",
+  "shortId": "WBEV",
+  "additional_info": []
+}|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Free",
+  "ip": "92.38.165.137",
+  "port": 17024,
+  "sid": "92.38.165.137-17024_PID_04.11.20_14.07.39",
+  "version": "live",
+  "location": "Shoreline",
+  "mode": "deathmatch",
+  "shortId": "WBEV",
+  "additional_info": []
+}|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa2bd76ad71e85fb03914be",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 2,
+    "dt": 1604500854,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0aff",
+    "systemData": {
+      "date": "04.11.2020",
+      "time": "17:40",
+      "location": "Shoreline"
+    },
+    "hasRewards": false,
+    "maxStorageTime": 604800
+  },
+  "profiles": null
+}|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2bd76ad71e85fb03914c0|
+2020-11-04 23:41:04.015 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2bd76ad71e85fb03914c0|
+2020-11-04 23:47:12.485 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2bef0b9829360593489e3","data":[]}|
+2020-11-04 23:47:12.485 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-04 23:47:12.485 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:47:12.485 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2bef0b9829360593489e3|
+2020-11-04 23:47:12.485 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-03.escapefromtarkov.com/push/notifier/get/bb922f49ba80d889bc4b6bcc6063bd90e87bd842176dae3c737126fcfe3c5bfa?last_id=5fa2bef0b9829360593489e3|
+2020-11-04 23:57:04.525 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-04 23:57:05.809 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af|
+2020-11-04 23:57:05.809 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:57:05.809 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=default_id|
+2020-11-04 23:57:05.809 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=default_id|
+2020-11-04 23:58:57.567 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c1b1de06d6081857a73a","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c1b1de06d6081857a7354","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604501937,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"XxChEcKpOtxX","soldItem":"57a0e5022459774d1673f889","itemCount":1},"items":{"stash":"5fa2c1b1de06d6081857a736","data":[{"_id":"5fa2c1b1de06d6081857a737","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":800},"parentId":"5fa2c1b1de06d6081857a736","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-04 23:58:57.567 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c1b1de06d6081857a7354",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604501937,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "XxChEcKpOtxX",
+      "soldItem": "57a0e5022459774d1673f889",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c1b1de06d6081857a736",
+      "data": [
+        {
+          "_id": "5fa2c1b1de06d6081857a737",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 800
+          },
+          "parentId": "5fa2c1b1de06d6081857a736",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 23:58:57.567 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:58:57.567 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:58:57.567 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b1de06d6081857a73a|
+2020-11-04 23:58:57.567 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b1de06d6081857a73a|
+2020-11-04 23:58:57.850 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2c1b1de06d6081857a73c","data":{"offerId":"5fa2c1ae99176170405dd1ac2","handbookId":"57a0e5022459774d1673f889","count":1}}|
+2020-11-04 23:58:57.850 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c1ae99176170405dd1ac2",
+  "handbookId": "57a0e5022459774d1673f889",
+  "count": 1
+}|
+2020-11-04 23:58:57.850 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-04 23:58:57.850 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:58:57.850 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b1de06d6081857a73c|
+2020-11-04 23:58:57.850 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b1de06d6081857a73c|
+2020-11-04 23:59:02.331 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c1b62c97ba6e071ab57f","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c1b62c97ba6e071ab57a4","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604501942,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"HuoYunXieShen","soldItem":"57a0e5022459774d1673f889","itemCount":26},"items":{"stash":"5fa2c1b62c97ba6e071ab57b","data":[{"_id":"5fa2c1b62c97ba6e071ab57c","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":20800},"parentId":"5fa2c1b62c97ba6e071ab57b","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-04 23:59:02.331 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c1b62c97ba6e071ab57a4",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604501942,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "HuoYunXieShen",
+      "soldItem": "57a0e5022459774d1673f889",
+      "itemCount": 26
+    },
+    "items": {
+      "stash": "5fa2c1b62c97ba6e071ab57b",
+      "data": [
+        {
+          "_id": "5fa2c1b62c97ba6e071ab57c",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 20800
+          },
+          "parentId": "5fa2c1b62c97ba6e071ab57b",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-04 23:59:02.331 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-04 23:59:02.331 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:59:02.331 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b62c97ba6e071ab57f|
+2020-11-04 23:59:02.331 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b62c97ba6e071ab57f|
+2020-11-04 23:59:02.613 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2c1b62c97ba6e071ab581","data":{"offerId":"5fa2c1ae99176170405dd1ac2","handbookId":"57a0e5022459774d1673f889","count":26}}|
+2020-11-04 23:59:02.613 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c1ae99176170405dd1ac2",
+  "handbookId": "57a0e5022459774d1673f889",
+  "count": 26
+}|
+2020-11-04 23:59:02.613 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-04 23:59:02.614 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-04 23:59:02.614 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b62c97ba6e071ab581|
+2020-11-04 23:59:02.614 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c1b62c97ba6e071ab581|
+2020-11-05 00:03:38.862 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c2ca89cd3b082e0d62fb","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c2ca89cd3b082e0d62e54","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502218,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Asuing282","soldItem":"5c18b90d2e2216152142466b","itemCount":1},"items":{"stash":"5fa2c2ca89cd3b082e0d62e6","data":[{"_id":"5fa2c2ca89cd3b082e0d62e7","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":13999},"parentId":"5fa2c2ca89cd3b082e0d62e6","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:03:38.862 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c2ca89cd3b082e0d62e54",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502218,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Asuing282",
+      "soldItem": "5c18b90d2e2216152142466b",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c2ca89cd3b082e0d62e6",
+      "data": [
+        {
+          "_id": "5fa2c2ca89cd3b082e0d62e7",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 13999
+          },
+          "parentId": "5fa2c2ca89cd3b082e0d62e6",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:03:38.862 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:03:38.862 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:03:38.862 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c2ca89cd3b082e0d62fb|
+2020-11-05 00:03:38.862 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c2ca89cd3b082e0d62fb|
+2020-11-05 00:03:39.961 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2c2ca89cd3b082e0d6301","data":{"offerId":"5fa2c1be4abd3119a725762e3","handbookId":"5c18b90d2e2216152142466b","count":1}}|
+2020-11-05 00:03:39.961 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c1be4abd3119a725762e3",
+  "handbookId": "5c18b90d2e2216152142466b",
+  "count": 1
+}|
+2020-11-05 00:03:39.961 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:03:39.961 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:03:39.961 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c2ca89cd3b082e0d6301|
+2020-11-05 00:03:39.961 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c2ca89cd3b082e0d6301|
+2020-11-05 00:09:00.475 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c40c320d1e0289147be9","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c40c320d1e0289147be44","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502540,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Sunreez","soldItem":"5a16b7e1fcdbcb00165aa6c9","itemCount":1},"items":{"stash":"5fa2c40c320d1e0289147be5","data":[{"_id":"5fa2c40c320d1e0289147be6","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":209999},"parentId":"5fa2c40c320d1e0289147be5","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:09:00.475 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c40c320d1e0289147be44",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502540,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Sunreez",
+      "soldItem": "5a16b7e1fcdbcb00165aa6c9",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c40c320d1e0289147be5",
+      "data": [
+        {
+          "_id": "5fa2c40c320d1e0289147be6",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 209999
+          },
+          "parentId": "5fa2c40c320d1e0289147be5",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:09:00.475 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:09:00.475 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:09:00.475 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c40c320d1e0289147be9|
+2020-11-05 00:09:00.475 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c40c320d1e0289147be9|
+2020-11-05 00:09:01.561 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2c40c320d1e0289147beb","data":{"offerId":"5fa2c2f95b879059777e32625","handbookId":"5a16b7e1fcdbcb00165aa6c9","count":1}}|
+2020-11-05 00:09:01.561 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c2f95b879059777e32625",
+  "handbookId": "5a16b7e1fcdbcb00165aa6c9",
+  "count": 1
+}|
+2020-11-05 00:09:01.561 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:09:01.561 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:09:01.561 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c40c320d1e0289147beb|
+2020-11-05 00:09:01.561 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c40c320d1e0289147beb|
+2020-11-05 00:09:25.679 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2c425be48611f13605d6a","data":[]}|
+2020-11-05 00:09:25.679 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 00:09:25.679 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:09:25.679 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c425be48611f13605d6a|
+2020-11-05 00:09:25.679 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c425be48611f13605d6a|
+2020-11-05 00:14:03.207 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c53b7903ec62a7119baa","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c53b7903ec62a7119ba74","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502843,"text":"","templateId":"5bdac06e86f774296f5a19c5","items":{"stash":"5fa2c53b7903ec62a7119ba8","data":[{"_id":"5fa2c53b7903ec62a7119ba9","_tpl":"5bb20d53d4351e4502010a69","upd":{"SpawnedInSession":true,"StackObjectsCount":1},"parentId":"5fa2c53b7903ec62a7119ba8","slotId":"main"}]},"maxStorageTime":86400,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:14:03.208 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c53b7903ec62a7119ba74",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502843,
+    "text": "",
+    "templateId": "5bdac06e86f774296f5a19c5",
+    "items": {
+      "stash": "5fa2c53b7903ec62a7119ba8",
+      "data": [
+        {
+          "_id": "5fa2c53b7903ec62a7119ba9",
+          "_tpl": "5bb20d53d4351e4502010a69",
+          "upd": {
+            "SpawnedInSession": true,
+            "StackObjectsCount": 1
+          },
+          "parentId": "5fa2c53b7903ec62a7119ba8",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 86400,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:14:03.208 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:14:03.208 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:14:03.208 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c53b7903ec62a7119baa|
+2020-11-05 00:14:03.208 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c53b7903ec62a7119baa|
+2020-11-05 00:14:08.998 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c540da93f92bbe2b00ae","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c540da93f92bbe2b00a94","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502848,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Soha2020","soldItem":"590c392f86f77444754deb29","itemCount":1},"items":{"stash":"5fa2c540da93f92bbe2b00aa","data":[{"_id":"5fa2c540da93f92bbe2b00ab","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":53000},"parentId":"5fa2c540da93f92bbe2b00aa","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:14:08.998 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c540da93f92bbe2b00a94",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502848,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Soha2020",
+      "soldItem": "590c392f86f77444754deb29",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c540da93f92bbe2b00aa",
+      "data": [
+        {
+          "_id": "5fa2c540da93f92bbe2b00ab",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 53000
+          },
+          "parentId": "5fa2c540da93f92bbe2b00aa",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:14:08.998 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:14:08.998 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:14:08.998 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c540da93f92bbe2b00ae|
+2020-11-05 00:14:08.998 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c540da93f92bbe2b00ae|
+2020-11-05 00:14:09.280 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2c540da93f92bbe2b00af","data":{"offerId":"5fa2c53e6b52894362179dc0c","handbookId":"590c392f86f77444754deb29","count":1}}|
+2020-11-05 00:14:09.280 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c53e6b52894362179dc0c",
+  "handbookId": "590c392f86f77444754deb29",
+  "count": 1
+}|
+2020-11-05 00:14:09.280 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:14:09.280 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:14:09.280 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c540da93f92bbe2b00af|
+2020-11-05 00:14:09.280 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c540da93f92bbe2b00af|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c541f08fa86a404edf69","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c541f08fa86a404edf644","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502849,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"ROFLED","soldItem":"590c392f86f77444754deb29","itemCount":1},"items":{"stash":"5fa2c541f08fa86a404edf65","data":[{"_id":"5fa2c541f08fa86a404edf66","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":53000},"parentId":"5fa2c541f08fa86a404edf65","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}
+{"type":"RagfairOfferSold","eventId":"5fa2c541f08fa86a404edf6b","data":{"offerId":"5fa2c53e6b52894362179dc0c","handbookId":"590c392f86f77444754deb29","count":1}}|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c541f08fa86a404edf644",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502849,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "ROFLED",
+      "soldItem": "590c392f86f77444754deb29",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c541f08fa86a404edf65",
+      "data": [
+        {
+          "_id": "5fa2c541f08fa86a404edf66",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 53000
+          },
+          "parentId": "5fa2c541f08fa86a404edf65",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c53e6b52894362179dc0c",
+  "handbookId": "590c392f86f77444754deb29",
+  "count": 1
+}|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c541f08fa86a404edf6b|
+2020-11-05 00:14:09.561 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c541f08fa86a404edf6b|
+2020-11-05 00:15:03.443 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c577cc1f3b65031fd791","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c577cc1f3b65031fd78e4","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502903,"text":"","templateId":"5bdac06e86f774296f5a19c5","items":{"stash":"5fa2c577cc1f3b65031fd78f","data":[{"_id":"5fa2c577cc1f3b65031fd790","_tpl":"5ba2678ad4351e44f824b344","upd":{"StackObjectsCount":27,"SpawnedInSession":true},"parentId":"5fa2c577cc1f3b65031fd78f","slotId":"main"}]},"maxStorageTime":86400,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:15:03.443 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c577cc1f3b65031fd78e4",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502903,
+    "text": "",
+    "templateId": "5bdac06e86f774296f5a19c5",
+    "items": {
+      "stash": "5fa2c577cc1f3b65031fd78f",
+      "data": [
+        {
+          "_id": "5fa2c577cc1f3b65031fd790",
+          "_tpl": "5ba2678ad4351e44f824b344",
+          "upd": {
+            "StackObjectsCount": 27,
+            "SpawnedInSession": true
+          },
+          "parentId": "5fa2c577cc1f3b65031fd78f",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 86400,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:15:03.443 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:15:03.443 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:15:03.443 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c577cc1f3b65031fd791|
+2020-11-05 00:15:03.443 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c577cc1f3b65031fd791|
+2020-11-05 00:15:16.664 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairNewRating","eventId":"5fa2c58466ad2b1d5b187a24","data":{"rating":2.22,"isRatingGrowing":true}}|
+2020-11-05 00:15:16.664 +09:00|Info|push-notifications|Got notification | RagfairNewRating
+{
+  "rating": 2.22,
+  "isRatingGrowing": true
+}|
+2020-11-05 00:15:16.664 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:15:16.664 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:15:16.664 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c58466ad2b1d5b187a24|
+2020-11-05 00:15:16.664 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c58466ad2b1d5b187a24|
+2020-11-05 00:15:37.072 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c59889cb7c5a8e5f172b","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c59889cb7c5a8e5f17264","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502936,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"sidemydick","soldItem":"590c595c86f7747884343ad7","itemCount":1},"items":{"stash":"5fa2c59889cb7c5a8e5f1727","data":[{"_id":"5fa2c59889cb7c5a8e5f1728","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":26998},"parentId":"5fa2c59889cb7c5a8e5f1727","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:15:37.072 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c59889cb7c5a8e5f17264",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502936,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "sidemydick",
+      "soldItem": "590c595c86f7747884343ad7",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c59889cb7c5a8e5f1727",
+      "data": [
+        {
+          "_id": "5fa2c59889cb7c5a8e5f1728",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 26998
+          },
+          "parentId": "5fa2c59889cb7c5a8e5f1727",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:15:37.072 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:15:37.072 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:15:37.072 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c59889cb7c5a8e5f172b|
+2020-11-05 00:15:37.072 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c59889cb7c5a8e5f172b|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c5986fd1923c51207a26","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c5986fd1923c51207a214","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604502936,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Ki1l3R","soldItem":"590c595c86f7747884343ad7","itemCount":1},"items":{"stash":"5fa2c5986fd1923c51207a22","data":[{"_id":"5fa2c5986fd1923c51207a23","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":26998},"parentId":"5fa2c5986fd1923c51207a22","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}
+{"type":"RagfairOfferSold","eventId":"5fa2c59889cb7c5a8e5f172d","data":{"offerId":"5fa2c59003b2c020bf5be14e8","handbookId":"590c595c86f7747884343ad7","count":1}}
+{"type":"RagfairOfferSold","eventId":"5fa2c5986fd1923c51207a28","data":{"offerId":"5fa2c59003b2c020bf5be14e8","handbookId":"590c595c86f7747884343ad7","count":1}}|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c5986fd1923c51207a214",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604502936,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Ki1l3R",
+      "soldItem": "590c595c86f7747884343ad7",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c5986fd1923c51207a22",
+      "data": [
+        {
+          "_id": "5fa2c5986fd1923c51207a23",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 26998
+          },
+          "parentId": "5fa2c5986fd1923c51207a22",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c59003b2c020bf5be14e8",
+  "handbookId": "590c595c86f7747884343ad7",
+  "count": 1
+}|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c59003b2c020bf5be14e8",
+  "handbookId": "590c595c86f7747884343ad7",
+  "count": 1
+}|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c5986fd1923c51207a28|
+2020-11-05 00:15:37.353 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c5986fd1923c51207a28|
+2020-11-05 00:18:01.460 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2c6290b87d921981c7555","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c6290b87d921981c75504","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604503081,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"OptimusPRimeMax","soldItem":"5ba2678ad4351e44f824b344","itemCount":27},"items":{"stash":"5fa2c6290b87d921981c7551","data":[{"_id":"5fa2c6290b87d921981c7552","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":21600},"parentId":"5fa2c6290b87d921981c7551","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:18:01.460 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c6290b87d921981c75504",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604503081,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "OptimusPRimeMax",
+      "soldItem": "5ba2678ad4351e44f824b344",
+      "itemCount": 27
+    },
+    "items": {
+      "stash": "5fa2c6290b87d921981c7551",
+      "data": [
+        {
+          "_id": "5fa2c6290b87d921981c7552",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 21600
+          },
+          "parentId": "5fa2c6290b87d921981c7551",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:18:01.460 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:18:01.460 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:18:01.460 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c6290b87d921981c7555|
+2020-11-05 00:18:01.460 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c6290b87d921981c7555|
+2020-11-05 00:18:01.868 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2c6290b87d921981c7557","data":{"offerId":"5fa2c5b5add7d245b42e6cac2","handbookId":"5ba2678ad4351e44f824b344","count":27}}|
+2020-11-05 00:18:01.868 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c5b5add7d245b42e6cac2",
+  "handbookId": "5ba2678ad4351e44f824b344",
+  "count": 27
+}|
+2020-11-05 00:18:01.868 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:18:01.868 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:18:01.868 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c6290b87d921981c7557|
+2020-11-05 00:18:01.868 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c6290b87d921981c7557|
+2020-11-05 00:22:27.343 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2c733846128755f4a18c5","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.223.73.159","port":17020,"sid":"92.223.73.159-17020_PID_04.11.20_15.17.32","version":"live","location":"Shoreline","mode":"deathmatch","shortId":"7GRP","additional_info":[]}}|
+2020-11-05 00:22:27.343 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.223.73.159",
+  "port": 17020,
+  "sid": "92.223.73.159-17020_PID_04.11.20_15.17.32",
+  "version": "live",
+  "location": "Shoreline",
+  "mode": "deathmatch",
+  "shortId": "7GRP",
+  "additional_info": []
+}|
+2020-11-05 00:22:27.343 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:22:27.343 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:22:27.343 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c733846128755f4a18c5|
+2020-11-05 00:22:27.343 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c733846128755f4a18c5|
+2020-11-05 00:53:53.205 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:53:53.205 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c733846128755f4a18c5|
+2020-11-05 00:53:53.205 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2c733846128755f4a18c5|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2c771e70fa50b940940a9","data":[]}
+{"type":"new_message","eventId":"5fa2c805f6c17f001d1d5b2b","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2c804f6c17f001d1d5b264","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604503557,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"BLDM","soldItem":"5c12688486f77426843c7d32","itemCount":1},"items":{"stash":"5fa2c804f6c17f001d1d5b27","data":[{"_id":"5fa2c805f6c17f001d1d5b28","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":39998},"parentId":"5fa2c804f6c17f001d1d5b27","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}
+{"type":"RagfairOfferSold","eventId":"5fa2c805f6c17f001d1d5b2d","data":{"offerId":"5fa2c5527a42a337776073d38","handbookId":"5c12688486f77426843c7d32","count":1}}
+{"type":"ping","eventId":"5fa2c9cd321fe61d366e591d","data":[]}
+{"type":"new_message","eventId":"5fa2cadfc87b6e0a443f7150","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa1733d52fe3637f022fc1210","uid":"54cb50c76803fa8b248b4571","type":8,"dt":1604416317,"text":"","templateId":"5a8fd75188a45036844e0adc","systemData":{"date":"03.11.2020","time":"18:03","location":"factory4_day"},"items":{"stash":"5fa1733d52fe3637f022fc13","data":[{"_id":"5f9eef4cd8c8564c7a0e817e","_tpl":"56d5a1f7d2720bb3418b456a","parentId":"5f9eef4cd8c8564c7a0e817d","slotId":"mod_barrel"},{"_id":"5f9eef4cd8c8564c7a0e817f","_tpl":"56d5a2bbd2720bb8418b456a","parentId":"5f9eef4cd8c8564c7a0e817d","slotId":"mod_pistol_grip"},{"_id":"5f9eef4cd8c8564c7a0e8180","_tpl":"56d5a407d2720bb3418b456b","parentId":"5f9eef4cd8c8564c7a0e817d","slotId":"mod_reciever"},{"_id":"5f9eef4cd8c8564c7a0e8183","_tpl":"56d59948d2720bb7418b4582","parentId":"5f9eef4cd8c8564c7a0e817d","slotId":"mod_magazine"},{"_id":"5f9eef4cd8c8564c7a0e8181","_tpl":"56d5a77ed2720b90418b4568","parentId":"5f9eef4cd8c8564c7a0e8180","slotId":"mod_sight_rear","upd":{"Sight":{"ScopesCurrentCalibPointIndexes":[0],"ScopesSelectedModes":[0],"SelectedScope":0}}},{"_id":"5f9eef4cd8c8564c7a0e8182","_tpl":"56d5a661d2720bd8418b456b","parentId":"5f9eef4cd8c8564c7a0e8180","slotId":"mod_sight_front","upd":{"Sight":{"ScopesCurrentCalibPointIndexes":[0],"ScopesSelectedModes":[0],"SelectedScope":0}}},{"_id":"5f9eef4cd8c8564c7a0e817d","_tpl":"56d59856d2720bd8418b456a","upd":{"Repairable":{"MaxDurability":100,"Durability":99.93573},"FireMode":{"FireMode":"single"}},"parentId":"5fa1733d52fe3637f022fc13","slotId":"main"}]},"maxStorageTime":345600,"hasRewards":true},"profiles":null}}
+{"type":"new_message","eventId":"5fa2cbbb2f4d7802d23b5466","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2cbbb2f4d7802d23b54614","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604504507,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"B-L-A-Z-E","soldItem":"5b43575a86f77424f443fe62","itemCount":1},"items":{"stash":"5fa2cbbb2f4d7802d23b5462","data":[{"_id":"5fa2cbbb2f4d7802d23b5463","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":37000},"parentId":"5fa2cbbb2f4d7802d23b5462","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}
+{"type":"RagfairOfferSold","eventId":"5fa2cbbb2f4d7802d23b5468","data":{"offerId":"5fa2c4849c603352ad1483828","handbookId":"5b43575a86f77424f443fe62","count":1}}
+{"type":"new_message","eventId":"5fa2cbcd231f4b6ff3746e4e","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa174dcf1777144495f900310","uid":"54cb50c76803fa8b248b4571","type":8,"dt":1604416732,"text":"","templateId":"5a8fd75188a45036844e0ade","systemData":{"date":"03.11.2020","time":"18:09","location":"factory4_day"},"items":{"stash":"5fa174dcf1777144495f9004","data":[{"_id":"5f8c7f6a1c97446fea58638d","_tpl":"576a7c512459771e796e0e17","parentId":"5f8c7f6a1c97446fea58638b","slotId":"mod_mount"},{"_id":"5f8c7f6a1c97446fea58638f","_tpl":"576a5ed62459771e9c2096cb","parentId":"5f8c7f6a1c97446fea58638b","slotId":"mod_magazine"},{"_id":"5f8c7f6a1c97446fea58638c","_tpl":"576a63cd2459771e796e0e11","parentId":"5f8c7f6a1c97446fea58638b","slotId":"mod_pistol_grip"},{"_id":"5f949d4d2bb89c5a6d43d4e0","_tpl":"560d657b4bdc2da74d8b4572","parentId":"5f8c7f6a1c97446fea58638d","slotId":"mod_tactical","upd":{"Light":{"IsActive":false,"SelectedMode":0}}},{"_id":"5f8c7f6a1c97446fea58638b","_tpl":"576a581d2459771e7b1bc4f1","upd":{"Repairable":{"MaxDurability":100,"Durability":99.95001},"FireMode":{"FireMode":"single"}},"parentId":"5fa174dcf1777144495f9004","slotId":"main"}]},"maxStorageTime":345600,"hasRewards":true},"profiles":null}}
+{"type":"ping","eventId":"5fa2cc28bcdbbe7352163198","data":[]}
+{"type":"ping","eventId":"5fa2ce8413237f297006a20d","data":[]}
+{"type":"userMatchOver","eventId":"5fa2ce8ee02ce003053d5fc8","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Free","ip":"92.223.73.159","port":17020,"sid":"92.223.73.159-17020_PID_04.11.20_15.17.32","version":"live","location":"Shoreline","mode":"deathmatch","shortId":"7GRP","additional_info":[]}}
+{"type":"new_message","eventId":"5fa2ce8ee02ce003053d5fcb","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa2ce8ee02ce003053d5fc9","uid":"54cb50c76803fa8b248b4571","type":2,"dt":1604505230,"text":"","templateId":"5a8fd75188a45036844e0aee","systemData":{"date":"04.11.2020","time":"18:53","location":"Shoreline"},"hasRewards":false,"maxStorageTime":604800},"profiles":null}}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2c804f6c17f001d1d5b264",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604503557,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "BLDM",
+      "soldItem": "5c12688486f77426843c7d32",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2c804f6c17f001d1d5b27",
+      "data": [
+        {
+          "_id": "5fa2c805f6c17f001d1d5b28",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 39998
+          },
+          "parentId": "5fa2c804f6c17f001d1d5b27",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c5527a42a337776073d38",
+  "handbookId": "5c12688486f77426843c7d32",
+  "count": 1
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa1733d52fe3637f022fc1210",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 8,
+    "dt": 1604416317,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0adc",
+    "systemData": {
+      "date": "03.11.2020",
+      "time": "18:03",
+      "location": "factory4_day"
+    },
+    "items": {
+      "stash": "5fa1733d52fe3637f022fc13",
+      "data": [
+        {
+          "_id": "5f9eef4cd8c8564c7a0e817e",
+          "_tpl": "56d5a1f7d2720bb3418b456a",
+          "parentId": "5f9eef4cd8c8564c7a0e817d",
+          "slotId": "mod_barrel"
+        },
+        {
+          "_id": "5f9eef4cd8c8564c7a0e817f",
+          "_tpl": "56d5a2bbd2720bb8418b456a",
+          "parentId": "5f9eef4cd8c8564c7a0e817d",
+          "slotId": "mod_pistol_grip"
+        },
+        {
+          "_id": "5f9eef4cd8c8564c7a0e8180",
+          "_tpl": "56d5a407d2720bb3418b456b",
+          "parentId": "5f9eef4cd8c8564c7a0e817d",
+          "slotId": "mod_reciever"
+        },
+        {
+          "_id": "5f9eef4cd8c8564c7a0e8183",
+          "_tpl": "56d59948d2720bb7418b4582",
+          "parentId": "5f9eef4cd8c8564c7a0e817d",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "5f9eef4cd8c8564c7a0e8181",
+          "_tpl": "56d5a77ed2720b90418b4568",
+          "parentId": "5f9eef4cd8c8564c7a0e8180",
+          "slotId": "mod_sight_rear",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0
+            }
+          }
+        },
+        {
+          "_id": "5f9eef4cd8c8564c7a0e8182",
+          "_tpl": "56d5a661d2720bd8418b456b",
+          "parentId": "5f9eef4cd8c8564c7a0e8180",
+          "slotId": "mod_sight_front",
+          "upd": {
+            "Sight": {
+              "ScopesCurrentCalibPointIndexes": [
+                0
+              ],
+              "ScopesSelectedModes": [
+                0
+              ],
+              "SelectedScope": 0
+            }
+          }
+        },
+        {
+          "_id": "5f9eef4cd8c8564c7a0e817d",
+          "_tpl": "56d59856d2720bd8418b456a",
+          "upd": {
+            "Repairable": {
+              "MaxDurability": 100,
+              "Durability": 99.93573
+            },
+            "FireMode": {
+              "FireMode": "single"
+            }
+          },
+          "parentId": "5fa1733d52fe3637f022fc13",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 345600,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2cbbb2f4d7802d23b54614",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604504507,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "B-L-A-Z-E",
+      "soldItem": "5b43575a86f77424f443fe62",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2cbbb2f4d7802d23b5462",
+      "data": [
+        {
+          "_id": "5fa2cbbb2f4d7802d23b5463",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 37000
+          },
+          "parentId": "5fa2cbbb2f4d7802d23b5462",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2c4849c603352ad1483828",
+  "handbookId": "5b43575a86f77424f443fe62",
+  "count": 1
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa174dcf1777144495f900310",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 8,
+    "dt": 1604416732,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0ade",
+    "systemData": {
+      "date": "03.11.2020",
+      "time": "18:09",
+      "location": "factory4_day"
+    },
+    "items": {
+      "stash": "5fa174dcf1777144495f9004",
+      "data": [
+        {
+          "_id": "5f8c7f6a1c97446fea58638d",
+          "_tpl": "576a7c512459771e796e0e17",
+          "parentId": "5f8c7f6a1c97446fea58638b",
+          "slotId": "mod_mount"
+        },
+        {
+          "_id": "5f8c7f6a1c97446fea58638f",
+          "_tpl": "576a5ed62459771e9c2096cb",
+          "parentId": "5f8c7f6a1c97446fea58638b",
+          "slotId": "mod_magazine"
+        },
+        {
+          "_id": "5f8c7f6a1c97446fea58638c",
+          "_tpl": "576a63cd2459771e796e0e11",
+          "parentId": "5f8c7f6a1c97446fea58638b",
+          "slotId": "mod_pistol_grip"
+        },
+        {
+          "_id": "5f949d4d2bb89c5a6d43d4e0",
+          "_tpl": "560d657b4bdc2da74d8b4572",
+          "parentId": "5f8c7f6a1c97446fea58638d",
+          "slotId": "mod_tactical",
+          "upd": {
+            "Light": {
+              "IsActive": false,
+              "SelectedMode": 0
+            }
+          }
+        },
+        {
+          "_id": "5f8c7f6a1c97446fea58638b",
+          "_tpl": "576a581d2459771e7b1bc4f1",
+          "upd": {
+            "Repairable": {
+              "MaxDurability": 100,
+              "Durability": 99.95001
+            },
+            "FireMode": {
+              "FireMode": "single"
+            }
+          },
+          "parentId": "5fa174dcf1777144495f9004",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 345600,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Free",
+  "ip": "92.223.73.159",
+  "port": 17020,
+  "sid": "92.223.73.159-17020_PID_04.11.20_15.17.32",
+  "version": "live",
+  "location": "Shoreline",
+  "mode": "deathmatch",
+  "shortId": "7GRP",
+  "additional_info": []
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa2ce8ee02ce003053d5fc9",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 2,
+    "dt": 1604505230,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0aee",
+    "systemData": {
+      "date": "04.11.2020",
+      "time": "18:53",
+      "location": "Shoreline"
+    },
+    "hasRewards": false,
+    "maxStorageTime": 604800
+  },
+  "profiles": null
+}|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2ce8ee02ce003053d5fcb|
+2020-11-05 00:54:00.258 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/e7c760015819c408b77a534a707468810453e996d54401c7041da1b5760af7af?last_id=5fa2ce8ee02ce003053d5fcb|
+2020-11-05 00:54:48.843 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-05 00:54:50.118 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7|
+2020-11-05 00:54:50.118 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:54:50.118 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=default_id|
+2020-11-05 00:54:50.118 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=default_id|
+2020-11-05 00:57:36.169 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2cf7079535868905e4ade","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2cf6f79535868905e4ad74","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604505455,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Dutchiie","soldItem":"59fafb5d86f774067a6f2084","itemCount":2},"items":{"stash":"5fa2cf6f79535868905e4ad8","data":[{"_id":"5fa2cf6f79535868905e4ad9","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":111998},"parentId":"5fa2cf6f79535868905e4ad8","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 00:57:36.169 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2cf6f79535868905e4ad74",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604505455,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Dutchiie",
+      "soldItem": "59fafb5d86f774067a6f2084",
+      "itemCount": 2
+    },
+    "items": {
+      "stash": "5fa2cf6f79535868905e4ad8",
+      "data": [
+        {
+          "_id": "5fa2cf6f79535868905e4ad9",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 111998
+          },
+          "parentId": "5fa2cf6f79535868905e4ad8",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 00:57:36.169 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 00:57:36.169 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:57:36.169 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2cf7079535868905e4ade|
+2020-11-05 00:57:36.169 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2cf7079535868905e4ade|
+2020-11-05 00:57:36.434 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2cf7079535868905e4ae0","data":{"offerId":"5fa2cf36633c3a3bf151fd278","handbookId":"59fafb5d86f774067a6f2084","count":2}}|
+2020-11-05 00:57:36.434 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2cf36633c3a3bf151fd278",
+  "handbookId": "59fafb5d86f774067a6f2084",
+  "count": 2
+}|
+2020-11-05 00:57:36.434 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 00:57:36.434 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 00:57:36.434 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2cf7079535868905e4ae0|
+2020-11-05 00:57:36.434 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2cf7079535868905e4ae0|
+2020-11-05 01:00:32.808 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d020ff69ac02c70191ae","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2d020ff69ac02c70191a94","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604505632,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"CHEN-LAO-BAO","soldItem":"590a386e86f77429692b27ab","itemCount":1},"items":{"stash":"5fa2d020ff69ac02c70191aa","data":[{"_id":"5fa2d020ff69ac02c70191ab","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":10000},"parentId":"5fa2d020ff69ac02c70191aa","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:00:32.808 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2d020ff69ac02c70191a94",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604505632,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "CHEN-LAO-BAO",
+      "soldItem": "590a386e86f77429692b27ab",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2d020ff69ac02c70191aa",
+      "data": [
+        {
+          "_id": "5fa2d020ff69ac02c70191ab",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 10000
+          },
+          "parentId": "5fa2d020ff69ac02c70191aa",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:00:32.808 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:00:32.808 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:00:32.808 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d020ff69ac02c70191ae|
+2020-11-05 01:00:32.808 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d020ff69ac02c70191ae|
+2020-11-05 01:00:33.073 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2d020ff69ac02c70191b0","data":{"offerId":"5fa2d00cf7d50227a94a39408","handbookId":"590a386e86f77429692b27ab","count":1}}|
+2020-11-05 01:00:33.073 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2d00cf7d50227a94a39408",
+  "handbookId": "590a386e86f77429692b27ab",
+  "count": 1
+}|
+2020-11-05 01:00:33.073 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 01:00:33.073 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:00:33.073 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d020ff69ac02c70191b0|
+2020-11-05 01:00:33.073 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d020ff69ac02c70191b0|
+2020-11-05 01:00:35.923 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d023632aab4d00267d0d","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2d023632aab4d00267d084","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604505635,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Shreeq-TTV","soldItem":"590a386e86f77429692b27ab","itemCount":1},"items":{"stash":"5fa2d023632aab4d00267d09","data":[{"_id":"5fa2d023632aab4d00267d0a","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":10000},"parentId":"5fa2d023632aab4d00267d09","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:00:35.923 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2d023632aab4d00267d084",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604505635,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Shreeq-TTV",
+      "soldItem": "590a386e86f77429692b27ab",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2d023632aab4d00267d09",
+      "data": [
+        {
+          "_id": "5fa2d023632aab4d00267d0a",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 10000
+          },
+          "parentId": "5fa2d023632aab4d00267d09",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:00:35.923 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:00:35.923 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:00:35.923 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d023632aab4d00267d0d|
+2020-11-05 01:00:35.923 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d023632aab4d00267d0d|
+2020-11-05 01:00:36.188 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2d023632aab4d00267d0f","data":{"offerId":"5fa2d00cf7d50227a94a39408","handbookId":"590a386e86f77429692b27ab","count":1}}|
+2020-11-05 01:00:36.188 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2d00cf7d50227a94a39408",
+  "handbookId": "590a386e86f77429692b27ab",
+  "count": 1
+}|
+2020-11-05 01:00:36.188 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 01:00:36.188 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:00:36.188 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d023632aab4d00267d0f|
+2020-11-05 01:00:36.188 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d023632aab4d00267d0f|
+2020-11-05 01:01:17.263 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairNewRating","eventId":"5fa2d04d290d6c3cab699c80","data":{"rating":2.28,"isRatingGrowing":true}}|
+2020-11-05 01:01:17.263 +09:00|Info|push-notifications|Got notification | RagfairNewRating
+{
+  "rating": 2.28,
+  "isRatingGrowing": true
+}|
+2020-11-05 01:01:17.263 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:01:17.263 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:01:17.263 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d04d290d6c3cab699c80|
+2020-11-05 01:01:17.263 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d04d290d6c3cab699c80|
+2020-11-05 01:01:38.037 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d0610d7bf412995123b0","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2d0610d7bf412995123ab4","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604505697,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"Scamid","soldItem":"5734779624597737e04bf329","itemCount":1},"items":{"stash":"5fa2d0610d7bf412995123ac","data":[{"_id":"5fa2d0610d7bf412995123ad","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":14500},"parentId":"5fa2d0610d7bf412995123ac","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:01:38.037 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2d0610d7bf412995123ab4",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604505697,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "Scamid",
+      "soldItem": "5734779624597737e04bf329",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2d0610d7bf412995123ac",
+      "data": [
+        {
+          "_id": "5fa2d0610d7bf412995123ad",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 14500
+          },
+          "parentId": "5fa2d0610d7bf412995123ac",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:01:38.037 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:01:38.037 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:01:38.037 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d0610d7bf412995123b0|
+2020-11-05 01:01:38.037 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d0610d7bf412995123b0|
+2020-11-05 01:01:38.303 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2d0610d7bf412995123b2","data":{"offerId":"5fa2d05e955c6a21016efe468","handbookId":"5734779624597737e04bf329","count":1}}|
+2020-11-05 01:01:38.303 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2d05e955c6a21016efe468",
+  "handbookId": "5734779624597737e04bf329",
+  "count": 1
+}|
+2020-11-05 01:01:38.303 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 01:01:38.303 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:01:38.303 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d0610d7bf412995123b2|
+2020-11-05 01:01:38.303 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d0610d7bf412995123b2|
+2020-11-05 01:01:40.274 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d06429a17f2f7416ce12","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2d06429a17f2f7416ce0d4","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604505700,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"TheSix","soldItem":"5734779624597737e04bf329","itemCount":1},"items":{"stash":"5fa2d06429a17f2f7416ce0e","data":[{"_id":"5fa2d06429a17f2f7416ce0f","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":14500},"parentId":"5fa2d06429a17f2f7416ce0e","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:01:40.274 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2d06429a17f2f7416ce0d4",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604505700,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "TheSix",
+      "soldItem": "5734779624597737e04bf329",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2d06429a17f2f7416ce0e",
+      "data": [
+        {
+          "_id": "5fa2d06429a17f2f7416ce0f",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 14500
+          },
+          "parentId": "5fa2d06429a17f2f7416ce0e",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:01:40.274 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:01:40.274 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:01:40.274 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d06429a17f2f7416ce12|
+2020-11-05 01:01:40.274 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d06429a17f2f7416ce12|
+2020-11-05 01:01:40.539 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2d06429a17f2f7416ce14","data":{"offerId":"5fa2d05e955c6a21016efe468","handbookId":"5734779624597737e04bf329","count":1}}|
+2020-11-05 01:01:40.539 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2d05e955c6a21016efe468",
+  "handbookId": "5734779624597737e04bf329",
+  "count": 1
+}|
+2020-11-05 01:01:40.539 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 01:01:40.539 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:01:40.539 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d06429a17f2f7416ce14|
+2020-11-05 01:01:40.539 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d06429a17f2f7416ce14|
+2020-11-05 01:02:25.259 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d09115743c1b420a2c8a","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2d09115743c1b420a2c854","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604505745,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"The2inPunisher","soldItem":"5e2af51086f7746d3f3c3402","itemCount":1},"items":{"stash":"5fa2d09115743c1b420a2c86","data":[{"_id":"5fa2d09115743c1b420a2c87","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":14000},"parentId":"5fa2d09115743c1b420a2c86","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:02:25.259 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2d09115743c1b420a2c854",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604505745,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "The2inPunisher",
+      "soldItem": "5e2af51086f7746d3f3c3402",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2d09115743c1b420a2c86",
+      "data": [
+        {
+          "_id": "5fa2d09115743c1b420a2c87",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 14000
+          },
+          "parentId": "5fa2d09115743c1b420a2c86",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:02:25.259 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:02:25.259 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:02:25.259 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d09115743c1b420a2c8a|
+2020-11-05 01:02:25.259 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d09115743c1b420a2c8a|
+2020-11-05 01:02:25.525 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2d09115743c1b420a2c8c","data":{"offerId":"5fa2d0728b34e92e3e4df3378","handbookId":"5e2af51086f7746d3f3c3402","count":1}}|
+2020-11-05 01:02:25.525 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2d0728b34e92e3e4df3378",
+  "handbookId": "5e2af51086f7746d3f3c3402",
+  "count": 1
+}|
+2020-11-05 01:02:25.525 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 01:02:25.525 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:02:25.525 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d09115743c1b420a2c8c|
+2020-11-05 01:02:25.525 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d09115743c1b420a2c8c|
+2020-11-05 01:04:57.798 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d129301d400df53633db","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2d129301d400df53633d64","uid":"5ac3b934156ae10c4430e83c","type":4,"dt":1604505897,"text":"","templateId":"5bdac0b686f7743e1665e09e","systemData":{"buyerNickname":"five9","soldItem":"56742c2e4bdc2d95058b456d","itemCount":1},"items":{"stash":"5fa2d129301d400df53633d7","data":[{"_id":"5fa2d129301d400df53633d8","_tpl":"5449016a4bdc2d6f028b456f","upd":{"StackObjectsCount":15000},"parentId":"5fa2d129301d400df53633d7","slotId":"main"}]},"maxStorageTime":259200,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:04:57.798 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2d129301d400df53633d64",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 4,
+    "dt": 1604505897,
+    "text": "",
+    "templateId": "5bdac0b686f7743e1665e09e",
+    "systemData": {
+      "buyerNickname": "five9",
+      "soldItem": "56742c2e4bdc2d95058b456d",
+      "itemCount": 1
+    },
+    "items": {
+      "stash": "5fa2d129301d400df53633d7",
+      "data": [
+        {
+          "_id": "5fa2d129301d400df53633d8",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 15000
+          },
+          "parentId": "5fa2d129301d400df53633d7",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:04:57.798 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:04:57.798 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:04:57.798 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d129301d400df53633db|
+2020-11-05 01:04:57.798 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d129301d400df53633db|
+2020-11-05 01:04:58.063 +09:00|Info|push-notifications|notification manager received message: {"type":"RagfairOfferSold","eventId":"5fa2d129301d400df53633dd","data":{"offerId":"5fa2d0f47f383c40504244e78","handbookId":"56742c2e4bdc2d95058b456d","count":1}}|
+2020-11-05 01:04:58.063 +09:00|Info|push-notifications|Got notification | RagfairOfferSold
+{
+  "offerId": "5fa2d0f47f383c40504244e78",
+  "handbookId": "56742c2e4bdc2d95058b456d",
+  "count": 1
+}|
+2020-11-05 01:04:58.063 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: True|
+2020-11-05 01:04:58.063 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:04:58.063 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d129301d400df53633dd|
+2020-11-05 01:04:58.063 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d129301d400df53633dd|
+2020-11-05 01:10:06.961 +09:00|Info|push-notifications|notification manager received message: {"type":"ping","eventId":"5fa2d25e15850512c83daaab","data":[]}|
+2020-11-05 01:10:06.961 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 01:10:06.961 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:10:06.961 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d25e15850512c83daaab|
+2020-11-05 01:10:06.961 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d25e15850512c83daaab|
+2020-11-05 01:11:24.702 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2d2ac0b2d6f6086249e19","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.223.73.29","port":17012,"sid":"92.223.73.29-17012_PID_04.11.20_16.04.07","version":"live","location":"Woods","mode":"deathmatch","shortId":"77MF","additional_info":[]}}|
+2020-11-05 01:11:24.702 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.223.73.29",
+  "port": 17012,
+  "sid": "92.223.73.29-17012_PID_04.11.20_16.04.07",
+  "version": "live",
+  "location": "Woods",
+  "mode": "deathmatch",
+  "shortId": "77MF",
+  "additional_info": []
+}|
+2020-11-05 01:11:24.702 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:11:24.702 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:11:24.702 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d2ac0b2d6f6086249e19|
+2020-11-05 01:11:24.702 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d2ac0b2d6f6086249e19|
+2020-11-05 01:20:37.048 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:20:37.048 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d2ac0b2d6f6086249e19|
+2020-11-05 01:20:37.048 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d2ac0b2d6f6086249e19|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2d2c75fdbe016681c9037","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.223.73.29","port":17012,"sid":"92.223.73.29-17012_PID_04.11.20_16.04.07","version":"live","location":"Woods","mode":"deathmatch","shortId":"77MF","additional_info":[]}}
+{"type":"ping","eventId":"5fa2d4cd59c36438fe401906","data":[]}
+{"type":"userMatchOver","eventId":"5fa2d4d3f1d9e144dc2eb511","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Free","ip":"92.223.73.29","port":17012,"sid":"92.223.73.29-17012_PID_04.11.20_16.04.07","version":"live","location":"Woods","mode":"deathmatch","shortId":"77MF","additional_info":[]}}
+{"type":"new_message","eventId":"5fa2d4d3f1d9e144dc2eb514","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa2d4d3f1d9e144dc2eb512","uid":"54cb50c76803fa8b248b4571","type":2,"dt":1604506835,"text":"","templateId":"5a8fd75188a45036844e0aff","systemData":{"date":"04.11.2020","time":"19:20","location":"Woods"},"hasRewards":false,"maxStorageTime":604800},"profiles":null}}|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.223.73.29",
+  "port": 17012,
+  "sid": "92.223.73.29-17012_PID_04.11.20_16.04.07",
+  "version": "live",
+  "location": "Woods",
+  "mode": "deathmatch",
+  "shortId": "77MF",
+  "additional_info": []
+}|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Free",
+  "ip": "92.223.73.29",
+  "port": 17012,
+  "sid": "92.223.73.29-17012_PID_04.11.20_16.04.07",
+  "version": "live",
+  "location": "Woods",
+  "mode": "deathmatch",
+  "shortId": "77MF",
+  "additional_info": []
+}|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa2d4d3f1d9e144dc2eb512",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 2,
+    "dt": 1604506835,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0aff",
+    "systemData": {
+      "date": "04.11.2020",
+      "time": "19:20",
+      "location": "Woods"
+    },
+    "hasRewards": false,
+    "maxStorageTime": 604800
+  },
+  "profiles": null
+}|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d4d3f1d9e144dc2eb514|
+2020-11-05 01:20:44.200 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/76470656c1eee46f496928c2ba5196d0162b283ad95e5328ef8279db80a3fee7?last_id=5fa2d4d3f1d9e144dc2eb514|
+2020-11-05 01:21:40.738 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-05 01:21:41.992 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465|
+2020-11-05 01:21:41.992 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:21:41.992 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=default_id|
+2020-11-05 01:21:41.992 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=default_id|
+2020-11-05 01:22:27.247 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d5431e3aa47c7e6f79fd","data":{"dialogId":"5ac3b934156ae10c4430e83c","message":{"_id":"5fa2d5431e3aa47c7e6f79fb4","uid":"5ac3b934156ae10c4430e83c","type":12,"dt":1604506947,"text":"quest finished","templateId":"5ae9e06286f7741e755650a6","items":{"stash":"5fa2d5431e3aa47c7e6f79fc","data":[{"_id":"5fa2d5431e3aa47c7e6f79fa","_tpl":"5449016a4bdc2d6f028b456f","upd":{"SpawnedInSession":true,"StackObjectsCount":84120},"parentId":"5fa2d5431e3aa47c7e6f79fc","slotId":"main"}]},"maxStorageTime":172800,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:22:27.247 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "5ac3b934156ae10c4430e83c",
+  "message": {
+    "_id": "5fa2d5431e3aa47c7e6f79fb4",
+    "uid": "5ac3b934156ae10c4430e83c",
+    "type": 12,
+    "dt": 1604506947,
+    "text": "quest finished",
+    "templateId": "5ae9e06286f7741e755650a6",
+    "items": {
+      "stash": "5fa2d5431e3aa47c7e6f79fc",
+      "data": [
+        {
+          "_id": "5fa2d5431e3aa47c7e6f79fa",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "SpawnedInSession": true,
+            "StackObjectsCount": 84120
+          },
+          "parentId": "5fa2d5431e3aa47c7e6f79fc",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 172800,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:22:27.247 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:22:27.247 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:22:27.247 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d5431e3aa47c7e6f79fd|
+2020-11-05 01:22:27.247 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d5431e3aa47c7e6f79fd|
+2020-11-05 01:24:06.537 +09:00|Info|push-notifications|notification manager received message: {"type":"new_message","eventId":"5fa2d5a60ec14f2ea54035e1","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa0e1abea4c977e5f4a745c10","uid":"54cb50c76803fa8b248b4571","type":8,"dt":1604379051,"text":"","templateId":"5a8fd75188a45036844e0adc","systemData":{"date":"03.11.2020","time":"07:12","location":"Shoreline"},"items":{"stash":"5fa0e1abea4c977e5f4a745d","data":[{"_id":"5f9ce53e32af3d06bf4b9695","_tpl":"5c0e5edb86f77461f55ed1f7","upd":{"Repairable":{"MaxDurability":49.35,"Durability":42.06394}},"parentId":"5fa0e1abea4c977e5f4a745d","slotId":"main"},{"_id":"5f98338151ee1b1cc5606a16","_tpl":"5b432b965acfc47a8774094e","parentId":"5fa0e1abea4c977e5f4a745d","slotId":"main"}]},"maxStorageTime":345600,"hasRewards":true},"profiles":null}}|
+2020-11-05 01:24:06.537 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa0e1abea4c977e5f4a745c10",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 8,
+    "dt": 1604379051,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0adc",
+    "systemData": {
+      "date": "03.11.2020",
+      "time": "07:12",
+      "location": "Shoreline"
+    },
+    "items": {
+      "stash": "5fa0e1abea4c977e5f4a745d",
+      "data": [
+        {
+          "_id": "5f9ce53e32af3d06bf4b9695",
+          "_tpl": "5c0e5edb86f77461f55ed1f7",
+          "upd": {
+            "Repairable": {
+              "MaxDurability": 49.35,
+              "Durability": 42.06394
+            }
+          },
+          "parentId": "5fa0e1abea4c977e5f4a745d",
+          "slotId": "main"
+        },
+        {
+          "_id": "5f98338151ee1b1cc5606a16",
+          "_tpl": "5b432b965acfc47a8774094e",
+          "parentId": "5fa0e1abea4c977e5f4a745d",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 345600,
+    "hasRewards": true
+  },
+  "profiles": null
+}|
+2020-11-05 01:24:06.537 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:24:06.537 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:24:06.537 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d5a60ec14f2ea54035e1|
+2020-11-05 01:24:06.537 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d5a60ec14f2ea54035e1|
+2020-11-05 01:33:31.694 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2d7db298b9e0601434c47","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.38.165.136","port":17005,"sid":"92.38.165.136-17005_PID_04.11.20_16.26.19","version":"live","location":"Woods","mode":"deathmatch","shortId":"7T86","additional_info":[]}}|
+2020-11-05 01:33:31.694 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.38.165.136",
+  "port": 17005,
+  "sid": "92.38.165.136-17005_PID_04.11.20_16.26.19",
+  "version": "live",
+  "location": "Woods",
+  "mode": "deathmatch",
+  "shortId": "7T86",
+  "additional_info": []
+}|
+2020-11-05 01:33:31.694 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:33:31.694 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:33:31.694 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d7db298b9e0601434c47|
+2020-11-05 01:33:31.694 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d7db298b9e0601434c47|
+2020-11-05 01:45:40.028 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:45:40.028 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d7db298b9e0601434c47|
+2020-11-05 01:45:40.028 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2d7db298b9e0601434c47|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|notification manager received message: {"type":"userConfirmed","eventId":"5fa2d7f22e294b6cd363a0e7","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Busy","ip":"92.38.165.136","port":17005,"sid":"92.38.165.136-17005_PID_04.11.20_16.26.19","version":"live","location":"Woods","mode":"deathmatch","shortId":"7T86","additional_info":[]}}
+{"type":"ping","eventId":"5fa2d81974722a6edd425724","data":[]}
+{"type":"ping","eventId":"5fa2da75b89a015bfc190610","data":[]}
+{"type":"userMatchOver","eventId":"5fa2dab29a5bb716d43f68ca","data":{"profileid":"5f676bb99a6be16425687dc0","status":"Free","ip":"92.38.165.136","port":17005,"sid":"92.38.165.136-17005_PID_04.11.20_16.26.19","version":"live","location":"Woods","mode":"deathmatch","shortId":"7T86","additional_info":[]}}
+{"type":"new_message","eventId":"5fa2dab29a5bb716d43f68cd","data":{"dialogId":"54cb50c76803fa8b248b4571","message":{"_id":"5fa2dab29a5bb716d43f68cb","uid":"54cb50c76803fa8b248b4571","type":2,"dt":1604508338,"text":"","templateId":"5a8fd75188a45036844e0aee","systemData":{"date":"04.11.2020","time":"19:45","location":"Woods"},"hasRewards":false,"maxStorageTime":604800},"profiles":null}}|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|Got notification | UserConfirmed
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Busy",
+  "ip": "92.38.165.136",
+  "port": 17005,
+  "sid": "92.38.165.136-17005_PID_04.11.20_16.26.19",
+  "version": "live",
+  "location": "Woods",
+  "mode": "deathmatch",
+  "shortId": "7T86",
+  "additional_info": []
+}|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications Ping|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|Got notification | UserMatchOver
+{
+  "profileid": "5f676bb99a6be16425687dc0",
+  "status": "Free",
+  "ip": "92.38.165.136",
+  "port": 17005,
+  "sid": "92.38.165.136-17005_PID_04.11.20_16.26.19",
+  "version": "live",
+  "location": "Woods",
+  "mode": "deathmatch",
+  "shortId": "7T86",
+  "additional_info": []
+}|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "5fa2dab29a5bb716d43f68cb",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 2,
+    "dt": 1604508338,
+    "text": "",
+    "templateId": "5a8fd75188a45036844e0aee",
+    "systemData": {
+      "date": "04.11.2020",
+      "time": "19:45",
+      "location": "Woods"
+    },
+    "hasRewards": false,
+    "maxStorageTime": 604800
+  },
+  "profiles": null
+}|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received notification: Type: Ping, Time: 0, Duration: Default, ShowNotification: False|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2dab29a5bb716d43f68cd|
+2020-11-05 01:45:47.037 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-02.escapefromtarkov.com/push/notifier/get/134cbb0e9f8d01529121a1bacd7c35823083bb22f7207563d7c0a1268a2ef465?last_id=5fa2dab29a5bb716d43f68cd|
+2020-11-05 01:46:25.798 +09:00|Info|push-notifications|Notifications Manager: Creating new channel|
+2020-11-05 01:46:27.010 +09:00|Info|push-notifications|Notifications Manager: new links received: https://notifier-01.escapefromtarkov.com/push/notifier/get/5b7fcfcc051bef7a87be95f677069ff962f47d90b033960006102ef055416351|
+2020-11-05 01:46:27.010 +09:00|Info|push-notifications|LongPollingRequest:Connect | holdConnection: True|
+2020-11-05 01:46:27.010 +09:00|Info|push-notifications|Starting long polling request started: https://notifier-01.escapefromtarkov.com/push/notifier/get/5b7fcfcc051bef7a87be95f677069ff962f47d90b033960006102ef055416351?last_id=default_id|
+2020-11-05 01:46:27.010 +09:00|Info|push-notifications|Long polling request - Started: https://notifier-01.escapefromtarkov.com/push/notifier/get/5b7fcfcc051bef7a87be95f677069ff962f47d90b033960006102ef055416351?last_id=default_id|
+2020-11-05 01:49:54.954 +09:00|Info|push-notifications|notification manager received message: {"EventId":"5fa2dbb233881132cb35d56b","type":"channel_deleted","data":[]}|
+2020-11-05 01:49:54.954 +09:00|Info|push-notifications|NotificationManager:ProcessMessage | Received Service Notifications ChannelDeleted|
