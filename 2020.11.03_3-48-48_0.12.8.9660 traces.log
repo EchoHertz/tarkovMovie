@@ -1,0 +1,1224 @@
+2020-11-03 12:48:48.249 +09:00|0.12.8.9660|Info|application|scheduler FrameTicks:160000 targetFrameRate:60| 
+2020-11-03 12:48:48.274 +09:00|0.12.8.9660|Info|application|Application awaken, updateQueue:'Update'| 
+2020-11-03 12:48:48.274 +09:00|0.12.8.9660|Info|application|Assert.raiseExceptions:'True'| 
+2020-11-03 12:48:48.274 +09:00|0.12.8.9660|Info|application|Application obfuscation succeed.| 
+2020-11-03 12:49:01.883 +09:00|0.12.8.9660|Debug|nvidia|[HIGHLIGHTS] Disabling Highlights| 
+2020-11-03 12:49:06.093 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/game/start:
+| 
+2020-11-03 12:49:06.486 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/game/start, time: 0.371 seconds:
+| 
+2020-11-03 12:49:06.498 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/menu/locale/en:
+| 
+2020-11-03 12:49:06.826 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/menu/locale/en, time: 0.315 seconds:
+| 
+2020-11-03 12:49:06.848 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/game/version/validate:
+| 
+2020-11-03 12:49:07.174 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/game/version/validate, time: 0.314 seconds:
+| 
+2020-11-03 12:49:07.193 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/languages:
+| 
+2020-11-03 12:49:07.522 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/languages, time: 0.328 seconds:
+| 
+2020-11-03 12:49:07.546 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/game/config:
+| 
+2020-11-03 12:49:07.936 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/game/config, time: 0.389 seconds:
+| 
+2020-11-03 12:49:07.960 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:49:08.436 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.474 seconds:
+| 
+2020-11-03 12:49:08.571 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/07721b70efc51b3a7660843585b4eda8, URL: https://prod-01.escapefromtarkov.com/client/items| 
+2020-11-03 12:49:08.571 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items:
+| 
+2020-11-03 12:49:10.403 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items, time: 1.827 seconds:
+| 
+2020-11-03 12:49:17.689 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/371a3a7fcbadc41332dfaef4fe9fd567, URL: https://prod-01.escapefromtarkov.com/client/customization| 
+2020-11-03 12:49:17.689 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/customization:
+| 
+2020-11-03 12:49:17.736 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/c0b0d589c21442970949a4646a056987, URL: https://prod-01.escapefromtarkov.com/client/globals| 
+2020-11-03 12:49:17.736 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/globals:
+| 
+2020-11-03 12:49:18.099 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/customization, time: 0.406 seconds:
+| 
+2020-11-03 12:49:19.366 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/globals, time: 1.614 seconds:
+| 
+2020-11-03 12:49:20.049 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/list:
+| 
+2020-11-03 12:49:21.181 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/list, time: 1.13 seconds:
+| 
+2020-11-03 12:49:22.261 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/select:
+| 
+2020-11-03 12:49:23.113 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/select, time: 0.844 seconds:
+| 
+2020-11-03 12:49:23.131 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/profile/status:
+| 
+2020-11-03 12:49:23.444 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/profile/status, time: 0.313 seconds:
+| 
+2020-11-03 12:49:23.485 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/weather:
+| 
+2020-11-03 12:49:23.485 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/6f2d9424c64a61c6a7fd1fa0233d072a, URL: https://prod-01.escapefromtarkov.com/client/locale/en| 
+2020-11-03 12:49:23.485 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/locale/en:
+| 
+2020-11-03 12:49:23.485 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/ef0fe02ef4d1e553827a8b2e7bf937d4, URL: https://prod-01.escapefromtarkov.com/client/locations| 
+2020-11-03 12:49:23.485 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/locations:
+| 
+2020-11-03 12:49:23.488 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/select:
+| 
+2020-11-03 12:49:23.825 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/weather, time: 0.332 seconds:
+| 
+2020-11-03 12:49:23.892 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/select, time: 0.392 seconds:
+| 
+2020-11-03 12:49:23.908 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/profile/status:
+| 
+2020-11-03 12:49:24.223 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/profile/status, time: 0.314 seconds:
+| 
+2020-11-03 12:49:24.577 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/locations, time: 1.08 seconds:
+| 
+2020-11-03 12:49:25.142 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/locale/en, time: 1.646 seconds:
+| 
+2020-11-03 12:49:25.319 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/handbook/templates:
+| 
+2020-11-03 12:49:27.805 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/handbook/templates, time: 2.472 seconds:
+| 
+2020-11-03 12:49:29.900 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/areas:
+| 
+2020-11-03 12:49:30.626 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/areas, time: 0.632 seconds:
+| 
+2020-11-03 12:49:30.734 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/settings:
+| 
+2020-11-03 12:49:31.108 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/settings, time: 0.373 seconds:
+| 
+2020-11-03 12:49:31.154 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/production/recipes:
+| 
+2020-11-03 12:49:31.517 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/production/recipes, time: 0.363 seconds:
+| 
+2020-11-03 12:49:31.561 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/production/scavcase/recipes:
+| 
+2020-11-03 12:49:31.890 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/production/scavcase/recipes, time: 0.327 seconds:
+| 
+2020-11-03 12:49:31.985 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/handbook/builds/my/list:
+| 
+2020-11-03 12:49:32.863 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/handbook/builds/my/list, time: 0.878 seconds:
+| 
+2020-11-03 12:49:32.922 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/quest/list:
+| 
+2020-11-03 12:49:33.701 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/quest/list, time: 0.765 seconds:
+| 
+2020-11-03 12:49:34.094 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/notifier/channel/create:
+| 
+2020-11-03 12:49:34.094 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/profile/status:
+| 
+2020-11-03 12:49:34.933 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/list:
+| 
+2020-11-03 12:49:34.933 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/friend/list:
+| 
+2020-11-03 12:49:34.933 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/friend/request/list/inbox:
+| 
+2020-11-03 12:49:34.933 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/friend/request/list/outbox:
+| 
+2020-11-03 12:49:34.933 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/customization/storage:
+| 
+2020-11-03 12:49:34.943 +09:00|0.12.8.9660|Debug|application|Start loading dll 'C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-03 12:49:35.374 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-03 12:49:35.374 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140714505928704'| 
+2020-11-03 12:49:35.374 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140714505928704'| 
+2020-11-03 12:49:35.374 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140714505928704'| 
+2020-11-03 12:49:35.374 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140714505928704'| 
+2020-11-03 12:49:35.374 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-03 12:49:35.382 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-03 12:49:35.382 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-03 12:49:35.382 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/notifier/channel/create, time: 1.289 seconds:
+| 
+2020-11-03 12:49:35.382 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/list, time: 0.458 seconds:
+| 
+2020-11-03 12:49:35.456 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/friend/list, time: 0.52 seconds:
+| 
+2020-11-03 12:49:35.475 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/friend/request/list/inbox, time: 0.537 seconds:
+| 
+2020-11-03 12:49:35.496 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/friend/request/list/outbox, time: 0.557 seconds:
+| 
+2020-11-03 12:49:35.653 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-03 12:49:35.653 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-03 12:49:35.755 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-03 12:49:35.755 +09:00|0.12.8.9660|Debug|application|Releasing dll '140714505928704'| 
+2020-11-03 12:49:35.838 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-03 12:49:35.838 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/profile/status, time: 0.453 seconds:
+| 
+2020-11-03 12:49:36.700 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/customization/storage, time: 1.316 seconds:
+| 
+2020-11-03 12:49:36.719 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/server/list:
+| 
+2020-11-03 12:49:36.746 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTradersList:
+| 
+2020-11-03 12:49:37.068 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/server/list, time: 0.321 seconds:
+| 
+2020-11-03 12:49:37.184 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTradersList, time: 0.435 seconds:
+| 
+2020-11-03 12:49:37.314 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/checkVersion:
+| 
+2020-11-03 12:49:37.669 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/updatePing:
+| 
+2020-11-03 12:49:37.669 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/checkVersion, time: 0.334 seconds:
+| 
+2020-11-03 12:49:38.011 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/updatePing, time: 0.34 seconds:
+| 
+2020-11-03 12:49:53.027 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/updatePing:
+| 
+2020-11-03 12:49:53.342 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/updatePing, time: 0.314 seconds:
+| 
+2020-11-03 12:50:53.346 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:50:53.712 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.35 seconds:
+| 
+2020-11-03 12:51:50.278 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/view:
+| 
+2020-11-03 12:51:50.629 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/view, time: 0.35 seconds:
+| 
+2020-11-03 12:51:57.361 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/view:
+| 
+2020-11-03 12:51:57.692 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/view, time: 0.33 seconds:
+| 
+2020-11-03 12:51:58.546 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments:
+| 
+2020-11-03 12:51:58.890 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments, time: 0.343 seconds:
+| 
+2020-11-03 12:52:04.138 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/view:
+| 
+2020-11-03 12:52:04.469 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/view, time: 0.331 seconds:
+| 
+2020-11-03 12:52:04.787 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments:
+| 
+2020-11-03 12:52:05.135 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments, time: 0.347 seconds:
+| 
+2020-11-03 12:53:05.147 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:53:06.373 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 1.209 seconds:
+| 
+2020-11-03 12:54:06.393 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:54:06.725 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.314 seconds:
+| 
+2020-11-03 12:55:06.745 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:55:07.092 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.331 seconds:
+| 
+2020-11-03 12:56:07.118 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:56:07.466 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.331 seconds:
+| 
+2020-11-03 12:57:07.488 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:57:07.835 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.331 seconds:
+| 
+2020-11-03 12:58:07.854 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:58:08.185 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.314 seconds:
+| 
+2020-11-03 12:59:08.212 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 12:59:08.577 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.348 seconds:
+| 
+2020-11-03 13:00:08.599 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:00:08.930 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.315 seconds:
+| 
+2020-11-03 13:00:32.573 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/customization/storage:
+| 
+2020-11-03 13:00:32.983 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/customization/storage, time: 0.386 seconds:
+| 
+2020-11-03 13:00:57.842 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:00:58.226 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.383 seconds:
+| 
+2020-11-03 13:00:58.451 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:00:58.841 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 0.343 seconds:
+| 
+2020-11-03 13:00:58.891 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:00:59.239 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.346 seconds:
+| 
+2020-11-03 13:01:06.869 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:01:07.258 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.388 seconds:
+| 
+2020-11-03 13:01:23.775 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:01:24.143 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.367 seconds:
+| 
+2020-11-03 13:01:24.363 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:01:24.789 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 0.362 seconds:
+| 
+2020-11-03 13:01:24.805 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:01:25.139 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.334 seconds:
+| 
+2020-11-03 13:01:27.175 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:01:27.555 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.381 seconds:
+| 
+2020-11-03 13:01:59.241 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:01:59.358 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:01:59.643 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.394 seconds:
+| 
+2020-11-03 13:01:59.776 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.403 seconds:
+| 
+2020-11-03 13:02:06.963 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:02:08.379 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 1.314 seconds:
+| 
+2020-11-03 13:02:08.379 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:02:08.743 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.348 seconds:
+| 
+2020-11-03 13:02:09.777 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:02:10.225 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.447 seconds:
+| 
+2020-11-03 13:02:16.416 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:02:16.838 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.381 seconds:
+| 
+2020-11-03 13:02:32.335 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:02:32.714 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.378 seconds:
+| 
+2020-11-03 13:02:33.004 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:02:33.519 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 0.413 seconds:
+| 
+2020-11-03 13:02:33.535 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:02:33.875 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.339 seconds:
+| 
+2020-11-03 13:02:35.952 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c:
+| 
+2020-11-03 13:02:36.318 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c, time: 0.342 seconds:
+| 
+2020-11-03 13:02:36.334 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c:
+| 
+2020-11-03 13:02:36.666 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c, time: 0.331 seconds:
+| 
+2020-11-03 13:02:40.547 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:02:40.945 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.396 seconds:
+| 
+2020-11-03 13:03:13.844 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:03:13.870 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:03:14.234 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.39 seconds:
+| 
+2020-11-03 13:03:14.234 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:03:21.097 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:03:21.506 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.365 seconds:
+| 
+2020-11-03 13:03:39.567 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:03:39.916 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.334 seconds:
+| 
+2020-11-03 13:03:40.799 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:03:40.799 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:03:41.123 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.32 seconds:
+| 
+2020-11-03 13:03:41.506 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.703 seconds:
+| 
+2020-11-03 13:03:42.383 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:03:42.712 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.328 seconds:
+| 
+2020-11-03 13:03:52.781 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:03:53.161 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.379 seconds:
+| 
+2020-11-03 13:04:10.981 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:04:11.368 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.386 seconds:
+| 
+2020-11-03 13:04:11.891 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571:
+| 
+2020-11-03 13:04:12.308 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571, time: 0.392 seconds:
+| 
+2020-11-03 13:04:12.339 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571:
+| 
+2020-11-03 13:04:12.688 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571, time: 0.349 seconds:
+| 
+2020-11-03 13:04:15.027 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:04:15.501 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 0.37 seconds:
+| 
+2020-11-03 13:04:15.516 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:04:15.878 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.36 seconds:
+| 
+2020-11-03 13:04:18.044 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:04:18.474 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.43 seconds:
+| 
+2020-11-03 13:04:38.263 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:04:38.292 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:04:38.650 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.385 seconds:
+| 
+2020-11-03 13:04:38.650 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.342 seconds:
+| 
+2020-11-03 13:04:41.708 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:04:42.115 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.388 seconds:
+| 
+2020-11-03 13:04:47.739 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:04:47.739 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:04:48.075 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.333 seconds:
+| 
+2020-11-03 13:04:48.459 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.717 seconds:
+| 
+2020-11-03 13:04:48.970 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:04:50.195 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 1.223 seconds:
+| 
+2020-11-03 13:04:56.543 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:04:56.942 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.398 seconds:
+| 
+2020-11-03 13:05:49.228 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:05:49.602 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.372 seconds:
+| 
+2020-11-03 13:05:49.894 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:05:51.203 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 1.207 seconds:
+| 
+2020-11-03 13:05:51.219 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:05:51.567 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.347 seconds:
+| 
+2020-11-03 13:05:54.713 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:05:55.095 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:06:12.641 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:06:12.670 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:06:13.039 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.396 seconds:
+| 
+2020-11-03 13:06:13.072 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.386 seconds:
+| 
+2020-11-03 13:06:39.553 +09:00|0.12.8.9660|Error|Default|Cannot put item item_equipment_rig_6b5_flora (id: 5f979a1d03aca76420810af6)| 
+2020-11-03 13:07:13.040 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:07:14.283 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 1.24 seconds:
+| 
+2020-11-03 13:07:30.220 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:07:30.246 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:07:30.615 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.394 seconds:
+| 
+2020-11-03 13:07:31.559 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 1.3 seconds:
+| 
+2020-11-03 13:07:33.711 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:07:33.711 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:07:34.028 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.314 seconds:
+| 
+2020-11-03 13:07:34.428 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.713 seconds:
+| 
+2020-11-03 13:07:37.145 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:07:37.145 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:07:37.479 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.331 seconds:
+| 
+2020-11-03 13:07:37.864 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.716 seconds:
+| 
+2020-11-03 13:07:38.623 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:07:38.938 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.313 seconds:
+| 
+2020-11-03 13:07:44.538 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:07:44.931 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.392 seconds:
+| 
+2020-11-03 13:08:06.548 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:08:06.575 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:08:06.941 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.392 seconds:
+| 
+2020-11-03 13:08:06.974 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.383 seconds:
+| 
+2020-11-03 13:08:46.292 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:08:46.320 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:08:46.688 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.395 seconds:
+| 
+2020-11-03 13:08:46.688 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.353 seconds:
+| 
+2020-11-03 13:08:51.020 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:08:51.399 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.365 seconds:
+| 
+2020-11-03 13:08:56.880 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:08:57.273 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:09:44.821 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:09:44.850 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:09:45.213 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.391 seconds:
+| 
+2020-11-03 13:09:45.247 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.381 seconds:
+| 
+2020-11-03 13:09:48.730 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:09:49.122 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:09:49.870 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:09:50.235 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.349 seconds:
+| 
+2020-11-03 13:09:54.865 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:09:55.262 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.381 seconds:
+| 
+2020-11-03 13:09:57.499 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:09:57.859 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.315 seconds:
+| 
+2020-11-03 13:10:00.602 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:10:00.998 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:10:02.541 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:10:02.936 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:10:04.123 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:10:04.502 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.332 seconds:
+| 
+2020-11-03 13:10:06.649 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:10:07.045 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:10:08.667 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:10:09.047 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.332 seconds:
+| 
+2020-11-03 13:10:10.867 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:10:11.229 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.315 seconds:
+| 
+2020-11-03 13:10:15.609 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:10:16.021 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.41 seconds:
+| 
+2020-11-03 13:10:26.984 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:10:27.346 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.36 seconds:
+| 
+2020-11-03 13:11:08.292 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/customization/storage:
+| 
+2020-11-03 13:11:08.341 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/579dc571d53a0658a154fbec:
+| 
+2020-11-03 13:11:08.341 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/5c0647fdd443bc2504c2d371:
+| 
+2020-11-03 13:11:08.687 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/customization/storage, time: 0.379 seconds:
+| 
+2020-11-03 13:11:08.719 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/579dc571d53a0658a154fbec, time: 0.363 seconds:
+| 
+2020-11-03 13:11:08.719 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/5c0647fdd443bc2504c2d371, time: 0.36 seconds:
+| 
+2020-11-03 13:11:08.929 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571:
+| 
+2020-11-03 13:11:09.635 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571, time: 0.47 seconds:
+| 
+2020-11-03 13:11:09.665 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571:
+| 
+2020-11-03 13:11:10.045 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/54cb50c76803fa8b248b4571, time: 0.377 seconds:
+| 
+2020-11-03 13:11:23.697 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost:
+| 
+2020-11-03 13:11:24.106 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost, time: 0.364 seconds:
+| 
+2020-11-03 13:11:34.459 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:11:34.858 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.393 seconds:
+| 
+2020-11-03 13:11:43.092 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/group/status:
+| 
+2020-11-03 13:11:43.824 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/group/status, time: 0.73 seconds:
+| 
+2020-11-03 13:11:44.564 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/group/exit_from_menu:
+| 
+2020-11-03 13:11:44.889 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/group/exit_from_menu, time: 0.325 seconds:
+| 
+2020-11-03 13:11:44.898 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-03 13:11:44.898 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():1348.117| 
+2020-11-03 13:11:44.919 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/available:
+| 
+2020-11-03 13:11:45.240 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/available, time: 0.318 seconds:
+| 
+2020-11-03 13:11:45.240 +09:00|0.12.8.9660|Info|application|scene preset path:maps/shoreline_preset.bundle rcid:shoreline.scenespreset.asset| 
+2020-11-03 13:11:45.240 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-03 13:11:54.958 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-03 13:11:54.958 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-03 13:12:10.694 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/join:
+| 
+2020-11-03 13:12:11.199 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/join, time: 0.501 seconds:
+| 
+2020-11-03 13:12:27.311 +09:00|0.12.8.9660|Info|application|LocationLoaded:16.66 real:42.41 diff:25.75| 
+2020-11-03 13:12:47.939 +09:00|0.12.8.9660|Info|application|MatchingCompleted:37.35 real:63.04 diff:25.69| 
+2020-11-03 13:12:48.056 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-03 13:12:48.056 +09:00|0.12.8.9660|Info|application|GamePrepared:37.45 real:63.15 diff:25.7| 
+2020-11-03 13:12:48.056 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 0| 
+2020-11-03 13:12:48.056 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 1| 
+2020-11-03 13:12:48.056 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/list:
+| 
+2020-11-03 13:12:49.189 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/list, time: 1.1 seconds:
+| 
+2020-11-03 13:12:49.399 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 2| 
+2020-11-03 13:12:49.399 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/getMetricsConfig:
+| 
+2020-11-03 13:12:49.714 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/getMetricsConfig, time: 0.312 seconds:
+| 
+2020-11-03 13:12:49.731 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 3| 
+2020-11-03 13:12:49.731 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate profileStatus: 'Profileid: 5f676bb99a6be16425687dc0, Status: Busy, Ip: 92.38.165.134, Port: 17005, Location: Shoreline, Sid: 92.38.165.134-17005_PID_03.11.20_04.08.43, GameMode: deathmatch, shortId: CGXF'| 
+2020-11-03 13:12:49.741 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 4| 
+2020-11-03 13:12:49.741 +09:00|0.12.8.9660|Info|application|GameCreated:39.15(1.7) real:64.85(1.69) diff:25.69| 
+2020-11-03 13:12:49.741 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 5| 
+2020-11-03 13:13:09.600 +09:00|0.12.8.9660|Info|application|GamePooled:57.33(18.18) real:84.7(19.84) diff:27.36| 
+2020-11-03 13:13:09.807 +09:00|0.12.8.9660|Info|application|GameRunned:57.33(0) real:84.9(0.2) diff:27.56| 
+2020-11-03 13:13:09.992 +09:00|0.12.8.9660|Info|application|GameSpawn:57.53(0.19) real:85.09(0.18) diff:27.55| 
+2020-11-03 13:13:10.828 +09:00|0.12.8.9660|Info|application|PlayerSpawnEvent:58.43(0.9) real:85.92(0.83) diff:27.48| 
+2020-11-03 13:13:11.675 +09:00|0.12.8.9660|Info|application|GameSpawned:59.27(0.84) real:86.77(0.84) diff:27.49| 
+2020-11-03 13:13:49.730 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:13:50.078 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.332 seconds:
+| 
+2020-11-03 13:14:43.494 +09:00|0.12.8.9660|Info|application|GameStarting:149.97(90.7) real:178.59(91.81) diff:28.61| 
+2020-11-03 13:14:50.101 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:14:50.450 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.332 seconds:
+| 
+2020-11-03 13:15:07.150 +09:00|0.12.8.9660|Info|application|GameStarted:172.25(22.27) real:202.25(23.66) diff:30| 
+2020-11-03 13:15:07.168 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameCreate 6| 
+2020-11-03 13:15:50.474 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:15:50.809 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.325 seconds:
+| 
+2020-11-03 13:16:50.828 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:16:51.177 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.333 seconds:
+| 
+2020-11-03 13:16:59.103 +09:00|0.12.8.9660|Debug|nvidia|[HIGHLIGHTS] Disabling Highlights| 
+2020-11-03 13:17:51.195 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:17:52.443 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 1.24 seconds:
+| 
+2020-11-03 13:18:52.451 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:18:52.764 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.303 seconds:
+| 
+2020-11-03 13:19:52.775 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:19:53.101 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.319 seconds:
+| 
+2020-11-03 13:20:53.113 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:20:53.449 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.328 seconds:
+| 
+2020-11-03 13:21:53.463 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:21:53.799 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.327 seconds:
+| 
+2020-11-03 13:22:53.811 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:22:55.001 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 1.182 seconds:
+| 
+2020-11-03 13:23:11.957 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/putMetrics:
+| 
+2020-11-03 13:23:13.657 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/putMetrics, time: 0.335 seconds:
+| 
+2020-11-03 13:23:13.811 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/list:
+| 
+2020-11-03 13:23:14.923 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/list, time: 1.111 seconds:
+| 
+2020-11-03 13:23:19.235 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTradersList:
+| 
+2020-11-03 13:23:19.645 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTradersList, time: 0.409 seconds:
+| 
+2020-11-03 13:23:24.187 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/07721b70efc51b3a7660843585b4eda8, URL: https://prod-01.escapefromtarkov.com/client/items| 
+2020-11-03 13:23:24.187 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items:
+| 
+2020-11-03 13:23:30.201 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items, time: 2.084 seconds:
+| 
+2020-11-03 13:23:33.711 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/371a3a7fcbadc41332dfaef4fe9fd567, URL: https://prod-01.escapefromtarkov.com/client/customization| 
+2020-11-03 13:23:33.711 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/c0b0d589c21442970949a4646a056987, URL: https://prod-01.escapefromtarkov.com/client/globals| 
+2020-11-03 13:23:33.711 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/globals:
+| 
+2020-11-03 13:23:33.711 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/customization:
+| 
+2020-11-03 13:23:34.176 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/customization, time: 0.448 seconds:
+| 
+2020-11-03 13:23:34.493 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/globals, time: 0.766 seconds:
+| 
+2020-11-03 13:23:34.605 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/list:
+| 
+2020-11-03 13:23:35.705 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/list, time: 1.099 seconds:
+| 
+2020-11-03 13:23:35.897 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/select:
+| 
+2020-11-03 13:23:36.262 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/select, time: 0.347 seconds:
+| 
+2020-11-03 13:23:36.278 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/profile/status:
+| 
+2020-11-03 13:23:36.627 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/profile/status, time: 0.331 seconds:
+| 
+2020-11-03 13:23:36.645 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/weather:
+| 
+2020-11-03 13:23:36.645 +09:00|0.12.8.9660|Info|backend|BackendCache.Load File name: C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../cache/ef0fe02ef4d1e553827a8b2e7bf937d4, URL: https://prod-01.escapefromtarkov.com/client/locations| 
+2020-11-03 13:23:36.645 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/locations:
+| 
+2020-11-03 13:23:36.645 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/select:
+| 
+2020-11-03 13:23:36.991 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/select, time: 0.331 seconds:
+| 
+2020-11-03 13:23:37.008 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/profile/status:
+| 
+2020-11-03 13:23:37.025 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/weather, time: 0.365 seconds:
+| 
+2020-11-03 13:23:37.338 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/profile/status, time: 0.314 seconds:
+| 
+2020-11-03 13:23:37.644 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/locations, time: 0.983 seconds:
+| 
+2020-11-03 13:23:37.836 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/handbook/templates:
+| 
+2020-11-03 13:23:38.894 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/handbook/templates, time: 1.058 seconds:
+| 
+2020-11-03 13:23:42.416 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/areas:
+| 
+2020-11-03 13:23:42.772 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/areas, time: 0.341 seconds:
+| 
+2020-11-03 13:23:42.807 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/settings:
+| 
+2020-11-03 13:23:43.123 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/settings, time: 0.316 seconds:
+| 
+2020-11-03 13:23:43.140 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/production/recipes:
+| 
+2020-11-03 13:23:43.477 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/production/recipes, time: 0.337 seconds:
+| 
+2020-11-03 13:23:43.492 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/hideout/production/scavcase/recipes:
+| 
+2020-11-03 13:23:43.844 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/hideout/production/scavcase/recipes, time: 0.335 seconds:
+| 
+2020-11-03 13:23:43.862 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/handbook/builds/my/list:
+| 
+2020-11-03 13:23:44.193 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/handbook/builds/my/list, time: 0.33 seconds:
+| 
+2020-11-03 13:23:44.209 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/quest/list:
+| 
+2020-11-03 13:23:44.644 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/quest/list, time: 0.435 seconds:
+| 
+2020-11-03 13:23:44.720 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/notifier/channel/create:
+| 
+2020-11-03 13:23:44.720 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/profile/status:
+| 
+2020-11-03 13:23:45.385 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/list:
+| 
+2020-11-03 13:23:45.385 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/friend/list:
+| 
+2020-11-03 13:23:45.385 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/friend/request/list/inbox:
+| 
+2020-11-03 13:23:45.385 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/friend/request/list/outbox:
+| 
+2020-11-03 13:23:45.385 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/customization/storage:
+| 
+2020-11-03 13:23:45.385 +09:00|0.12.8.9660|Debug|application|Start loading dll 'C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Debug|application|SUCCESS: loading dll 'C:/Battlestate Games/EFT/EscapeFromTarkov_Data/../BattlEye/BEClient_x64.dll'| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'Init', dllPtr:'140714504552448'| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'Init', dllPtr:'140714504552448'| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Debug|application|Getting Proc Address for 'GetVer', dllPtr:'140714504552448'| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Debug|application|SUCCESS: getting proc address 'GetVer', dllPtr:'140714504552448'| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Debug|application|Init: pstrGameVersion: Escape from Tarkov 0.12.8.9660, uiAddress: 0, usPort: 0| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Info|application|Initialized (v1.247)| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Info|application|BEClient inited successfully| 
+2020-11-03 13:23:45.739 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/notifier/channel/create, time: 1.025 seconds:
+| 
+2020-11-03 13:23:45.897 +09:00|0.12.8.9660|Info|application|Disposing BEClient| 
+2020-11-03 13:23:45.897 +09:00|0.12.8.9660|Info|application|BEClient exit| 
+2020-11-03 13:23:45.998 +09:00|0.12.8.9660|Info|application|BEClient exit successfully| 
+2020-11-03 13:23:45.998 +09:00|0.12.8.9660|Debug|application|Releasing dll '140714504552448'| 
+2020-11-03 13:23:46.058 +09:00|0.12.8.9660|Debug|application|SUCCESS: Dll released with code '1'| 
+2020-11-03 13:23:46.078 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/friend/request/list/outbox, time: 0.692 seconds:
+| 
+2020-11-03 13:23:46.078 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/profile/status, time: 0.333 seconds:
+| 
+2020-11-03 13:23:46.078 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/customization/storage, time: 0.333 seconds:
+| 
+2020-11-03 13:23:46.094 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/server/list:
+| 
+2020-11-03 13:23:46.097 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTradersList:
+| 
+2020-11-03 13:23:46.097 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/list, time: 0.713 seconds:
+| 
+2020-11-03 13:23:46.097 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/friend/list, time: 0.714 seconds:
+| 
+2020-11-03 13:23:46.097 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/friend/request/list/inbox, time: 0.714 seconds:
+| 
+2020-11-03 13:23:46.425 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/server/list, time: 0.326 seconds:
+| 
+2020-11-03 13:23:46.443 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTradersList, time: 0.346 seconds:
+| 
+2020-11-03 13:23:46.473 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/checkVersion:
+| 
+2020-11-03 13:23:47.643 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/updatePing:
+| 
+2020-11-03 13:23:47.643 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/checkVersion, time: 1.166 seconds:
+| 
+2020-11-03 13:23:48.849 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/updatePing, time: 1.206 seconds:
+| 
+2020-11-03 13:24:03.859 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/updatePing:
+| 
+2020-11-03 13:24:04.206 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/updatePing, time: 0.347 seconds:
+| 
+2020-11-03 13:24:40.127 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:24:40.158 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/54cb50c76803fa8b248b4571:
+| 
+2020-11-03 13:24:40.523 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.394 seconds:
+| 
+2020-11-03 13:24:40.523 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/54cb50c76803fa8b248b4571, time: 0.348 seconds:
+| 
+2020-11-03 13:24:41.133 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:24:42.421 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 1.236 seconds:
+| 
+2020-11-03 13:24:42.437 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:24:43.017 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.579 seconds:
+| 
+2020-11-03 13:24:46.962 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:24:47.377 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.413 seconds:
+| 
+2020-11-03 13:24:50.086 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:24:50.527 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.42 seconds:
+| 
+2020-11-03 13:24:54.712 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:24:54.712 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:24:55.026 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.311 seconds:
+| 
+2020-11-03 13:24:55.428 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.711 seconds:
+| 
+2020-11-03 13:24:56.253 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:24:56.585 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.329 seconds:
+| 
+2020-11-03 13:25:00.511 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:25:00.893 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:25:03.082 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:25:03.439 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.343 seconds:
+| 
+2020-11-03 13:25:04.004 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:25:04.006 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:25:04.355 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.349 seconds:
+| 
+2020-11-03 13:25:04.739 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.732 seconds:
+| 
+2020-11-03 13:25:06.046 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:25:06.360 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.312 seconds:
+| 
+2020-11-03 13:25:09.557 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:25:09.971 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.412 seconds:
+| 
+2020-11-03 13:25:25.331 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:25:25.721 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.389 seconds:
+| 
+2020-11-03 13:26:04.280 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:26:04.651 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.369 seconds:
+| 
+2020-11-03 13:26:04.892 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:26:05.371 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 0.38 seconds:
+| 
+2020-11-03 13:26:05.387 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:26:05.741 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.337 seconds:
+| 
+2020-11-03 13:26:08.037 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:26:08.416 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:27:08.045 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:27:08.442 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.395 seconds:
+| 
+2020-11-03 13:28:08.066 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:28:08.457 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.39 seconds:
+| 
+2020-11-03 13:29:08.063 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:29:08.428 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.363 seconds:
+| 
+2020-11-03 13:30:08.064 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:30:08.480 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.415 seconds:
+| 
+2020-11-03 13:30:15.753 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:30:15.779 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:30:16.110 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.356 seconds:
+| 
+2020-11-03 13:30:16.176 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.381 seconds:
+| 
+2020-11-03 13:30:18.698 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:30:19.096 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.397 seconds:
+| 
+2020-11-03 13:30:44.704 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:30:44.727 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/58330581ace78e27b8b10cee:
+| 
+2020-11-03 13:30:45.059 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTrader/58330581ace78e27b8b10cee, time: 0.315 seconds:
+| 
+2020-11-03 13:30:45.125 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.42 seconds:
+| 
+2020-11-03 13:30:45.400 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:30:45.859 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 0.365 seconds:
+| 
+2020-11-03 13:30:45.875 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:30:46.224 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.347 seconds:
+| 
+2020-11-03 13:30:48.325 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:30:48.706 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:30:50.240 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/view:
+| 
+2020-11-03 13:30:50.599 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/view, time: 0.358 seconds:
+| 
+2020-11-03 13:30:51.151 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/view:
+| 
+2020-11-03 13:30:51.469 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/view, time: 0.317 seconds:
+| 
+2020-11-03 13:30:51.750 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments:
+| 
+2020-11-03 13:30:52.082 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments, time: 0.331 seconds:
+| 
+2020-11-03 13:30:54.170 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:30:54.553 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.378 seconds:
+| 
+2020-11-03 13:31:54.558 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:31:54.558 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:31:54.922 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.358 seconds:
+| 
+2020-11-03 13:31:54.957 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.381 seconds:
+| 
+2020-11-03 13:32:30.311 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:32:30.683 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.371 seconds:
+| 
+2020-11-03 13:33:07.731 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:33:07.758 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:33:08.118 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.386 seconds:
+| 
+2020-11-03 13:33:08.168 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.398 seconds:
+| 
+2020-11-03 13:33:11.437 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:33:11.437 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:33:11.772 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.332 seconds:
+| 
+2020-11-03 13:33:12.206 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.766 seconds:
+| 
+2020-11-03 13:33:12.617 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:33:12.935 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.316 seconds:
+| 
+2020-11-03 13:33:16.659 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:33:17.072 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.412 seconds:
+| 
+2020-11-03 13:34:16.676 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:34:17.074 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.397 seconds:
+| 
+2020-11-03 13:35:16.679 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:35:17.047 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.366 seconds:
+| 
+2020-11-03 13:35:19.440 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/view:
+| 
+2020-11-03 13:35:19.822 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/view, time: 0.381 seconds:
+| 
+2020-11-03 13:35:20.170 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments:
+| 
+2020-11-03 13:35:20.485 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments, time: 0.314 seconds:
+| 
+2020-11-03 13:35:32.820 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:35:33.234 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.412 seconds:
+| 
+2020-11-03 13:35:34.489 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/customization/storage:
+| 
+2020-11-03 13:35:34.875 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/customization/storage, time: 0.376 seconds:
+| 
+2020-11-03 13:35:35.101 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:35:35.556 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5935c25fb3acc3127c3d8cd9, time: 0.364 seconds:
+| 
+2020-11-03 13:35:35.572 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9:
+| 
+2020-11-03 13:35:35.923 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5935c25fb3acc3127c3d8cd9, time: 0.35 seconds:
+| 
+2020-11-03 13:35:39.873 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:35:40.254 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:36:10.484 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments:
+| 
+2020-11-03 13:36:10.816 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments, time: 0.331 seconds:
+| 
+2020-11-03 13:36:10.817 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:36:11.284 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.467 seconds:
+| 
+2020-11-03 13:36:12.634 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:36:13.020 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.385 seconds:
+| 
+2020-11-03 13:36:22.458 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:36:22.878 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.419 seconds:
+| 
+2020-11-03 13:36:32.586 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:36:32.611 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:36:32.977 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.39 seconds:
+| 
+2020-11-03 13:36:32.977 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.351 seconds:
+| 
+2020-11-03 13:36:34.243 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:36:34.243 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/items/prices:
+| 
+2020-11-03 13:36:34.577 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 0.331 seconds:
+| 
+2020-11-03 13:36:34.960 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/items/prices, time: 0.715 seconds:
+| 
+2020-11-03 13:36:35.738 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice:
+| 
+2020-11-03 13:36:36.940 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/itemMarketPrice, time: 1.201 seconds:
+| 
+2020-11-03 13:36:39.227 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:36:39.589 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.361 seconds:
+| 
+2020-11-03 13:37:13.487 +09:00|0.12.8.9660|Debug|application|TRACE-GamePrepare 2| 
+2020-11-03 13:37:36.344 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:37:36.713 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.354 seconds:
+| 
+2020-11-03 13:37:40.484 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:37:41.714 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 1.214 seconds:
+| 
+2020-11-03 13:38:41.732 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/keepalive:
+| 
+2020-11-03 13:38:42.113 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/keepalive, time: 0.365 seconds:
+| 
+2020-11-03 13:38:46.570 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:38:46.967 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.396 seconds:
+| 
+2020-11-03 13:38:51.118 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:38:51.674 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.557 seconds:
+| 
+2020-11-03 13:39:40.640 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:39:40.675 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:41.035 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.394 seconds:
+| 
+2020-11-03 13:39:41.036 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.345 seconds:
+| 
+2020-11-03 13:39:42.600 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:39:42.981 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:39:46.279 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:46.691 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.398 seconds:
+| 
+2020-11-03 13:39:47.383 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:47.773 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.35 seconds:
+| 
+2020-11-03 13:39:48.481 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:48.869 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:39:49.611 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:50.006 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:39:51.086 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:51.434 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.332 seconds:
+| 
+2020-11-03 13:39:52.349 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:52.760 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.365 seconds:
+| 
+2020-11-03 13:39:56.876 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://ragfair.escapefromtarkov.com/client/ragfair/find:
+| 
+2020-11-03 13:39:57.270 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://ragfair.escapefromtarkov.com/client/ragfair/find, time: 0.348 seconds:
+| 
+2020-11-03 13:40:03.561 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:03.957 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.395 seconds:
+| 
+2020-11-03 13:40:07.708 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:08.062 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.354 seconds:
+| 
+2020-11-03 13:40:10.747 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:11.127 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.379 seconds:
+| 
+2020-11-03 13:40:14.408 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:14.788 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:40:31.152 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost:
+| 
+2020-11-03 13:40:32.433 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost, time: 1.276 seconds:
+| 
+2020-11-03 13:40:32.847 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.396 seconds:
+| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Warn|insurance|Items to insure does not contain: Standard APS 9x18PM 20-round magazine| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Warn|insurance|Items to insure does not contain: APS bakelite side-pieces| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Warn|insurance|Items to insure does not contain: APS Frontsight| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Warn|insurance|Items to insure does not contain: APB Rearsight| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Warn|insurance|Items to insure does not contain: Silencer APB 9x18PM| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Warn|insurance|Items to insure does not contain: Silenced Stechkin Automatic Pistol 9x18PM| 
+2020-11-03 13:40:33.245 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost:
+| 
+2020-11-03 13:40:33.846 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost, time: 0.581 seconds:
+| 
+2020-11-03 13:40:37.878 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost:
+| 
+2020-11-03 13:40:38.222 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost, time: 0.34 seconds:
+| 
+2020-11-03 13:40:38.786 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:39.183 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.396 seconds:
+| 
+2020-11-03 13:40:39.183 +09:00|0.12.8.9660|Warn|insurance|Items to insure does not contain: Walker's Razor Digital headset| 
+2020-11-03 13:40:39.183 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost:
+| 
+2020-11-03 13:40:39.780 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/insurance/items/list/cost, time: 0.581 seconds:
+| 
+2020-11-03 13:40:43.297 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments:
+| 
+2020-11-03 13:40:43.663 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod.escapefromtarkov.com/client/mail/dialog/getAllAttachments, time: 0.363 seconds:
+| 
+2020-11-03 13:40:45.958 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:46.339 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.38 seconds:
+| 
+2020-11-03 13:40:55.700 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving:
+| 
+2020-11-03 13:40:56.079 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/game/profile/items/moving, time: 0.379 seconds:
+| 
+2020-11-03 13:41:01.405 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c:
+| 
+2020-11-03 13:41:02.382 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c, time: 0.417 seconds:
+| 
+2020-11-03 13:41:02.398 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c:
+| 
+2020-11-03 13:41:02.758 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5ac3b934156ae10c4430e83c, time: 0.359 seconds:
+| 
+2020-11-03 13:41:03.299 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5c0647fdd443bc2504c2d371:
+| 
+2020-11-03 13:41:03.690 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5c0647fdd443bc2504c2d371, time: 0.374 seconds:
+| 
+2020-11-03 13:41:03.706 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5c0647fdd443bc2504c2d371:
+| 
+2020-11-03 13:41:04.054 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5c0647fdd443bc2504c2d371, time: 0.348 seconds:
+| 
+2020-11-03 13:41:31.832 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5c0647fdd443bc2504c2d371:
+| 
+2020-11-03 13:41:32.327 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getTraderAssort/5c0647fdd443bc2504c2d371, time: 0.372 seconds:
+| 
+2020-11-03 13:41:32.343 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5c0647fdd443bc2504c2d371:
+| 
+2020-11-03 13:41:32.692 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://trading.escapefromtarkov.com/client/trading/api/getUserAssortPrice/trader/5c0647fdd443bc2504c2d371, time: 0.348 seconds:
+| 
+2020-11-03 13:41:53.602 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/group/status:
+| 
+2020-11-03 13:41:54.824 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/group/status, time: 1.22 seconds:
+| 
+2020-11-03 13:41:55.340 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/group/exit_from_menu:
+| 
+2020-11-03 13:41:56.565 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/group/exit_from_menu, time: 1.225 seconds:
+| 
+2020-11-03 13:41:56.567 +09:00|0.12.8.9660|Debug|application|Matching with group id: | 
+2020-11-03 13:41:56.567 +09:00|0.12.8.9660|Info|application|ClientMetricsEvents():3096.42| 
+2020-11-03 13:41:56.582 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/available:
+| 
+2020-11-03 13:41:56.908 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/available, time: 0.325 seconds:
+| 
+2020-11-03 13:41:56.908 +09:00|0.12.8.9660|Info|application|scene preset path:maps/rezerv_base_preset.bundle rcid:Rezerv_Base.scenespreset.asset| 
+2020-11-03 13:41:56.908 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching G| 
+2020-11-03 13:42:05.854 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching H| 
+2020-11-03 13:42:05.854 +09:00|0.12.8.9660|Debug|application|TRACE-NetworkGameMatching I| 
+2020-11-03 13:42:22.157 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/match/exit:
+| 
+2020-11-03 13:42:24.743 +09:00|0.12.8.9660|Info|backend|<--- response URL: https://prod-01.escapefromtarkov.com/client/match/exit, time: 2.585 seconds:
+| 
+2020-11-03 13:42:24.743 +09:00|0.12.8.9660|Info|backend|---> Request  URL: https://prod-01.escapefromtarkov.com/client/profile/status:
+| 
+2020-11-03 13:42:34.367 +09:00|0.12.8.9660|Error|Default|Error: Destroying MatchmakerTimeHasCome screen while it's still shown| 
+2020-11-03 13:42:50.159 +09:00|0.12.8.9660|Debug|nvidia|[HIGHLIGHTS] Disabling Highlights| 
