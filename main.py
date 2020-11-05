@@ -3,7 +3,8 @@ import pprint as pp
 
 
 # 첫번째 레이드 영상속 들어간 시간
-firstTime = '00:30'
+# PS.1:00:00 되기 전에 게임 들어가야함 ㅋㅋㅋㅋ
+firstTime = '09:00'
 
 
 
