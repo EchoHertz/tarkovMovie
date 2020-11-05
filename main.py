@@ -1,6 +1,14 @@
 import datetime
 import pprint as pp
 
+
+# 첫번째 레이드 영상속 들어간 시간
+firstTime = '00:30'
+
+
+
+
+
 applicationLog = open('log_2020.11.04_12-55-42_0.12.8.9660/2020.11.04_12-55-42_0.12.8.9660 application.log')
 notificationLog = open('log_2020.11.04_12-55-42_0.12.8.9660/2020.11.04_12-55-42_0.12.8.9660 notifications.log')
 
