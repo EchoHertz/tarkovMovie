@@ -4,11 +4,7 @@ import pprint as pp
 
 # 첫번째 레이드 영상속 들어간 시간
 # PS.1:00:00 되기 전에 게임 들어가야함 ㅋㅋㅋㅋ
-firstTime = '09:00'
-
-
-
-
+firstTime = '17:35'
 
 applicationLog = open('log_2020.11.04_12-55-42_0.12.8.9660/2020.11.04_12-55-42_0.12.8.9660 application.log')
 notificationLog = open('log_2020.11.04_12-55-42_0.12.8.9660/2020.11.04_12-55-42_0.12.8.9660 notifications.log')
